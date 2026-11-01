@@ -1,0 +1,19 @@
+{% extends "base.html" %}
+{% block title %}Saldos {{ profile.label }} | Saldo privado{% endblock %}
+{% block content %}
+  <section class="page-intro compact">
+    <p class="eyebrow">Historico diario</p>
+    <h1>Saldos de {{ profile.label }}</h1>
+    <p>Se muestran los ultimos 180 dias del CSV generado al actualizar los movimientos.</p>
+  </section>
+  <div class="table-wrap">
+    <table>
+      <thead><tr><th>Fecha</th>{% for column in columns %}<th>{{ column.label }}</th>{% endfor %}<th>Total</th></tr></thead>
+      <tbody>
+        {% for row in rows %}
+          <tr><td>{{ row.fecha }}</td>{% for column in columns %}<td>{{ "{:,.2f}".format(row[column.key]) }}</td>{% endfor %}<td class="total-cell">{{ "{:,.2f}".format(row.saldo_total) }}</td></tr>
+        {% endfor %}
+      </tbody>
+    </table>
+  </div>
+{% endblock %}

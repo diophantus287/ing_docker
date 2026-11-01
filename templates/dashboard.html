@@ -1,0 +1,54 @@
+{% extends "base.html" %}
+{% block title %}{{ profile.label }} | Saldo privado{% endblock %}
+{% block content %}
+  <section class="page-intro">
+    <p class="eyebrow">Datos locales</p>
+    <h1>{{ profile.label }}</h1>
+    {% if summary %}<p>Saldo calculado hasta el {{ summary.date }} a partir de {{ workbook }}.</p>{% endif %}
+  </section>
+
+  {% if error %}<div class="notice error">{{ error }}</div>{% endif %}
+  {% if summary %}
+    <section class="balance-lead" aria-label="Saldo total actual de {{ profile.label }}">
+      <span>Saldo consolidado</span>
+      <strong>{{ "{:,.2f}".format(summary.total) }} EUR</strong>
+    </section>
+    <section class="account-grid" aria-label="Saldos por cuenta">
+      {% for account in summary.accounts %}
+        <article><span>{{ account.label }}</span><strong>{{ "{:,.2f}".format(account.value) }} EUR</strong></article>
+      {% endfor %}
+    </section>
+  {% endif %}
+
+  <section class="action-band">
+    <div>
+      <p class="eyebrow">Origen de datos</p>
+      <h2>Actualizar movimientos de {{ profile.label }}</h2>
+      {% if profile.slug == 'warein' %}
+        <p>Elige la cuenta ING e importa su exportacion bancaria. Solo se anadiran los movimientos que no existan ya.</p>
+      {% else %}
+        <p>Sustituye el libro por la exportacion bancaria mas reciente.</p>
+      {% endif %}
+    </div>
+    <form action="{{ url_for('upload_workbook', profile_slug=profile.slug) }}" method="post" enctype="multipart/form-data" class="upload-form">
+      {% if profile.slug == 'warein' %}
+        <label for="account">Cuenta ING</label>
+        <select id="account" name="account" required>
+          <option value="ing-nomina">ING nomina</option>
+          <option value="ing-naranja">ING Naranja</option>
+        </select>
+      {% endif %}
+      <label for="workbook">Archivo Excel</label>
+      <input id="workbook" name="workbook" type="file" accept="{% if profile.slug == 'warein' %}.xls,.xlsx{% else %}.xlsx{% endif %}" required>
+      <button type="submit">Subir movimientos</button>
+    </form>
+  </section>
+
+  <section class="chart-section">
+    <div class="section-heading">
+      <div><p class="eyebrow">Grafico guardado</p><h2>Movimientos {{ profile.label }}</h2></div>
+    </div>
+    <p>Se actualiza al cargar un archivo nuevo y se sirve como PNG.</p>
+    <img class="chart" src="{{ url_for('total_plot', profile_slug=profile.slug) }}" alt="Grafico de saldo total de {{ profile.label }}" onerror="this.hidden=true">
+  </section>
+{% endblock %}

@@ -1,0 +1,32 @@
+{% extends "base.html" %}
+{% block title %}Total Warein | Saldo privado{% endblock %}
+{% block content %}
+  <section class="page-intro compact">
+    <p class="eyebrow">Movimientos ING</p>
+    <h1>Movimientos Warein</h1>
+    <p>Consulta los CSV de ING nómina, ING Naranja y Trade, y descarga la versión actualizada.</p>
+  </section>
+  <section class="sheet-selector" aria-label="Seleccionar cuenta ING">
+    {% for sheet in sheets %}
+      <a class="{% if sheet.index == selected_sheet %}active{% endif %}" href="{{ url_for('total_page', profile_slug=profile.slug, sheet=sheet.index) }}">{{ sheet.name }}</a>
+    {% endfor %}
+  </section>
+  <section class="section-heading source-heading">
+    <div>
+      <p class="eyebrow">Cuenta ING</p>
+      <h2>{{ selected.name }}</h2>
+      <p class="state">{{ rows|length }} filas y {{ columns|length }} columnas</p>
+    </div>
+    <a class="download-button" href="{{ url_for('source_sheet_csv', profile_slug=profile.slug, sheet_index=selected_sheet) }}">Descargar CSV</a>
+  </section>
+  <div class="table-wrap source-table">
+    <table>
+      <thead><tr>{% for column in columns %}<th>{{ column }}</th>{% endfor %}</tr></thead>
+      <tbody>
+        {% for row in rows %}
+          <tr>{% for column in columns %}<td>{{ row[column] }}</td>{% endfor %}</tr>
+        {% endfor %}
+      </tbody>
+    </table>
+  </div>
+{% endblock %}

@@ -1,0 +1,20 @@
+{% extends "base.html" %}
+{% block title %}Mensual {{ profile.label }} | Saldo privado{% endblock %}
+{% block content %}
+  <section class="page-intro">
+    <p class="eyebrow">Cierre mensual</p>
+    <h1>Ganancia mensual de {{ profile.label }}</h1>
+    <p>Se conserva durante el mes y solo se puede actualizar cuando hay un cierre nuevo.</p>
+  </section>
+  <section class="chart-section monthly-chart">
+    <div class="section-heading">
+      <div><h2>Plot mensual</h2>{% if is_current %}<p class="state">Al dia.</p>{% else %}<p class="state pending">Pendiente de generar.</p>{% endif %}</div>
+      <form action="{{ url_for('generate_monthly_plot', profile_slug=profile.slug) }}" method="post"><button type="submit">Generar plot mensual</button></form>
+    </div>
+    {% if has_plot %}
+      <img class="chart" src="{{ url_for('monthly_plot', profile_slug=profile.slug) }}?v={{ version }}" alt="Grafico de ganancia mensual de {{ profile.label }}">
+    {% else %}
+      <p class="empty-state">Todavia no hay un plot mensual guardado.</p>
+    {% endif %}
+  </section>
+{% endblock %}
