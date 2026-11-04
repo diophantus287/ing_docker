@@ -4,10 +4,12 @@
   <section class="page-intro">
     <p class="eyebrow">Datos locales</p>
     <h1>{{ profile.label }}</h1>
-    {% if summary %}<p>Saldo calculado hasta el {{ summary.date }} a partir de {{ workbook }}.</p>{% endif %}
   </section>
 
   {% if error %}<div class="notice error">{{ error }}</div>{% endif %}
+  {% if movement_check %}
+    <div class="notice{% if movement_check[1] %} error{% endif %}">{{ movement_check[0] }}</div>
+  {% endif %}
   {% if summary %}
     <section class="balance-lead" aria-label="Saldo total actual de {{ profile.label }}">
       <span>Saldo consolidado</span>
@@ -20,29 +22,31 @@
     </section>
   {% endif %}
 
-  <section class="action-band">
-    <div>
-      <p class="eyebrow">Origen de datos</p>
-      <h2>Actualizar movimientos de {{ profile.label }}</h2>
-      {% if profile.slug == 'warein' %}
-        <p>Elige la cuenta ING e importa su exportacion bancaria. Solo se anadiran los movimientos que no existan ya.</p>
-      {% else %}
-        <p>Sustituye el libro por la exportacion bancaria mas reciente.</p>
-      {% endif %}
-    </div>
-    <form action="{{ url_for('upload_workbook', profile_slug=profile.slug) }}" method="post" enctype="multipart/form-data" class="upload-form">
-      {% if profile.slug == 'warein' %}
-        <label for="account">Cuenta ING</label>
-        <select id="account" name="account" required>
-          <option value="ing-nomina">ING nomina</option>
-          <option value="ing-naranja">ING Naranja</option>
-        </select>
-      {% endif %}
-      <label for="workbook">Archivo Excel</label>
-      <input id="workbook" name="workbook" type="file" accept="{% if profile.slug == 'warein' %}.xls,.xlsx{% else %}.xlsx{% endif %}" required>
-      <button type="submit">Subir movimientos</button>
-    </form>
-  </section>
+  {% if profile.slug != 'total' %}
+    <section class="action-band">
+      <div>
+        <p class="eyebrow">Origen de datos</p>
+        <h2>Actualizar movimientos de {{ profile.label }}</h2>
+        {% if profile.slug == 'warein' %}
+          <p>Elige la cuenta ING e importa su exportacion bancaria. El CSV se reemplaza y conserva el orden original del Excel. Si no coincide fecha, descripcion, importe y saldo con el CSV actual, la importacion se rechaza.</p>
+        {% else %}
+          <p>Importa la exportacion bancaria de {{ profile.label }}. El CSV se reemplaza con las cinco primeras columnas y conserva el orden original del Excel desde un movimiento coincidente. Si no coincide fecha, descripcion, importe y saldo con el CSV actual, la importacion se rechaza.</p>
+        {% endif %}
+      </div>
+      <form action="{{ url_for('upload_workbook', profile_slug=profile.slug) }}" method="post" enctype="multipart/form-data" class="upload-form">
+        {% if profile.slug == 'warein' %}
+          <label for="account">Cuenta ING</label>
+          <select id="account" name="account" required>
+            <option value="ing-nomina">ING nomina</option>
+            <option value="ing-naranja">ING Naranja</option>
+          </select>
+        {% endif %}
+        <label for="workbook">Archivo Excel</label>
+        <input id="workbook" name="workbook" type="file" accept=".xls,.xlsx" required>
+        <button type="submit">Subir movimientos</button>
+      </form>
+    </section>
+  {% endif %}
 
   <section class="chart-section">
     <div class="section-heading">

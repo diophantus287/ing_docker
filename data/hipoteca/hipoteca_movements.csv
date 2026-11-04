@@ -1,0 +1,733 @@
+FECHA OPERACIÓN,FECHA VALOR,CONCEPTO,IMPORTE EUR,SALDO,SALDO CALCULADO,COMPROBACIÓN
+2026-11-03,2026-11-03,"Recibo Excmo. Ayuntamiento De Salamanca Nº Recibo 0049 5292 755 Bbnvcng Ref. Mandato 230010331723, De",-164.41,8330.05,8330.05,OK
+2026-11-03,2026-11-03,"Recibo Excmo. Ayuntamiento De Salamanca Nº Recibo 0049 5292 755 Bbnvcmz Ref. Mandato 230010331721, De",-12.31,8494.46,8494.46,OK
+2026-11-02,2026-11-02,"Transferencia De Escobar Ramirez Maria Isabel, Concepto Gastos Noviembre.",400.0,8506.77,8506.77,OK
+2026-11-02,2026-11-02,"Transferencia De Eduardo Warein Holgado Lage, Concepto Hipoteca.",1600.0,8106.77,8106.77,OK
+2026-11-02,2026-11-02,Liquidacion De Las Tarjetas De Credito Del Contrato 0049 5292 502 1915579,-451.46,6506.77,6506.77,OK
+2026-11-02,2026-10-31,Liquidacion Periodica Prestamo 0049 5292 103 0607630,-501.91,6958.23,6958.23,OK
+2026-10-30,2026-10-30,"Recibo Repsol, S.l.u. - Repsol Comercializadora Nº Recibo 0049 5292 755 Bbnvsct Ref. Mandato 002402866318, De",-70.71,7460.14,7460.14,OK
+2026-10-28,2026-10-28,"Recibo Aramark Servicios De Catering Nº Recibo 0049 5292 755 Bbntxln Ref. Mandato 367773, De",-79.36,7530.85,7530.85,OK
+2026-10-16,2026-10-16,Transferencia A Favor De Comunidad Miguel Mihura 2-4 Concepto: Derrama Ascensor - Escalera 3 1a 000311,-140.0,7610.21,7610.21,OK
+2026-10-16,2026-10-16,"Recibo Sirinx S.l., Concepto: Oct26/alex Escobar Holgado",-112.0,7750.21,7750.21,OK
+2026-10-15,2026-10-15,"Recibo Vodafone Servicios, S.l.u., Concepto: Factura: Lowi.es:/ci00000098934914/",-30.0,7862.21,7862.21,OK
+2026-10-09,2026-10-09,Transferencia A Favor De Comunidad Miguel Mihura 2-4 Concepto: Miguel Mihura 2 - Escalera 3 - 1a,-203.0,7892.21,7892.21,OK
+2026-10-07,2026-10-07,Transferencia Inmediata A Favor De Club Deportivo Doryoku Concepto San Mateo Alex Escobar,-81.0,8095.21,8095.21,OK
+2026-10-02,2026-10-02,"Transferencia De Eduardo Warein Holgado Lage, Concepto Hipoteca.",1600.0,8176.21,8176.21,OK
+2026-10-01,2026-10-01,"Transferencia De Escobar Ramirez Maria Isabel, Concepto Octubre 2026.",400.0,6576.21,6576.21,OK
+2026-10-01,2026-10-01,Liquidacion De Las Tarjetas De Credito Del Contrato 0049 5292 502 1915579,-417.73,6176.21,6176.21,OK
+2026-09-30,2026-09-30,Liquidacion Periodica Prestamo 0049 5292 103 0607630,-501.91,6593.94,6593.94,OK
+2026-09-29,2026-09-29,"Recibo Repsol, S.l.u. - Repsol Comercializadora Nº Recibo 0049 5292 755 Bbnrrsh Ref. Mandato 002402866318, De",-72.36,7095.85,7095.85,OK
+2026-09-22,2026-09-22,"Recibo Sirinx S.l., Concepto: Sep26/alex Escobar Holgado",-112.0,7168.21,7168.21,OK
+2026-09-16,2026-09-16,Transferencia A Favor De Comunidad Miguel Mihura 2-4 Concepto: Derrama Ascensor - Escalera 3 1a 000311,-140.0,7280.21,7280.21,OK
+2026-09-14,2026-09-14,"Recibo Vodafone Servicios, S.l.u., Concepto: Notprovided",-30.56,7420.21,7420.21,OK
+2026-09-11,2026-09-11,Transferencia A Favor De Comunidad Miguel Mihura 2-4 Concepto: Miguel Mihura 2 - Escalera 3 - 1a,-203.0,7450.77,7450.77,OK
+2026-09-02,2026-09-02,"Transferencia De Eduardo Warein Holgado Lage, Concepto Hipoteca.",1100.0,7653.77,7653.77,OK
+2026-09-01,2026-09-01,"Transferencia De Escobar Ramirez Maria Isabel, Concepto Gastos Septiembre 2026.",1000.0,6553.77,6553.77,OK
+2026-09-01,2026-09-01,Liquidacion De Las Tarjetas De Credito Del Contrato 0049 5292 502 1915579,-479.75,5553.77,5553.77,OK
+2026-09-01,2026-08-31,Liquidacion Periodica Prestamo 0049 5292 103 0607630,-501.91,6033.52,6033.52,OK
+2026-08-31,2026-08-31,"Recibo Repsol, S.l.u. - Repsol Comercializadora Nº Recibo 0049 5292 755 Bbnpsvs Ref. Mandato 002402866318, De",-64.44,6535.43,6535.43,OK
+2026-08-17,2026-08-17,Transferencia A Favor De Comunidad Miguel Mihura 2-4 Concepto: Derrama Ascensor - Escalera 3 1a 000311,-140.0,6599.87,6599.87,OK
+2026-08-12,2026-08-12,Transferencia A Favor De Comunidad Miguel Mihura 2-4 Concepto: Miguel Mihura 2 - Escalera 3 - 1a,-203.0,6739.87,6739.87,OK
+2026-08-12,2026-08-12,"Recibo Vodafone Servicios, S.l.u., Concepto: Factura: Lowi.es:/ci00000096619004/",-30.0,6942.87,6942.87,OK
+2026-08-10,2026-08-10,"Recibo Repsol, S.l.u. - Repsol Comercializadora Nº Recibo 0049 5292 755 Bbnngsd Ref. Mandato 002402866318, De",-60.34,6972.87,6972.87,OK
+2026-08-03,2026-08-03,"Transferencia De Eduardo Warein Holgado Lage, Concepto Hipoteca.",1100.0,7033.21,7033.21,OK
+2026-08-03,2026-08-03,"Transferencia De Escobar Ramirez Maria Isabel, Concepto Gastos Agosto 2026.",1100.0,5933.21,5933.21,OK
+2026-08-03,2026-08-03,Liquidacion De Las Tarjetas De Credito Del Contrato 0049 5292 502 1915579,-565.47,4833.21,4833.21,OK
+2026-07-31,2026-07-31,Liquidacion Periodica Prestamo 0049 5292 103 0607630,-501.91,5398.68,5398.68,OK
+2026-07-16,2026-07-16,Transferencia A Favor De Comunidad Miguel Mihura 2-4 Concepto: Derrama Ascensor - Escalera 3 1a 000311,-140.0,5900.59,5900.59,OK
+2026-07-14,2026-07-14,"Recibo Vodafone Servicios, S.l.u., Concepto: Notprovided",-32.55,6040.59,6040.59,OK
+2026-07-10,2026-07-10,Transferencia A Favor De Comunidad Miguel Mihura 2-4 Concepto: Miguel Mihura 2 - Escalera 3 - 1a,-203.0,6073.14,6073.14,OK
+2026-07-02,2026-07-02,"Transferencia De Eduardo Warein Holgado Lage, Concepto Hipoteca.",1100.0,6276.14,6276.14,OK
+2026-07-02,2026-07-01,Transferencia Inmediata A Favor De Escuela Katiuskas Concepto Alex Escobar Holgado - Julio 2026,-360.0,5176.14,5176.14,OK
+2026-07-01,2026-07-01,"Transferencia De Escobar Ramirez Maria Isabel, Concepto Julio 2026.",1100.0,5536.14,5536.14,OK
+2026-07-01,2026-07-01,Liquidacion De Las Tarjetas De Credito Del Contrato 0049 5292 502 1915579,-523.82,4436.14,4436.14,OK
+2026-06-30,2026-06-30,"Recibo Aramark Servicios De Catering Nº Recibo 0049 5292 755 Bbnjzyp Ref. Mandato 367773, De",-84.32,4959.96,4959.96,OK
+2026-06-30,2026-06-30,Liquidacion Periodica Prestamo 0049 5292 103 0607630,-501.91,5044.28,5044.28,OK
+2026-06-30,2026-06-30,"Recibo Repsol, S.l.u., Concepto: Repsol 4302867041",-58.7,5546.19,5546.19,OK
+2026-06-16,2026-06-16,Transferencia A Favor De Comunidad Miguel Mihura 2-4 Concepto: Derrama Ascensor - Escalera 3 1a 000311,-140.0,5604.89,5604.89,OK
+2026-06-16,2026-06-16,"Recibo Mutua Madrilena Automovilista, Concepto: Seguros",-556.37,5744.89,5744.89,OK
+2026-06-12,2026-06-12,Transferencia A Favor De Comunidad Miguel Mihura 2-4 Concepto: Miguel Mihura 2 - Escalera 3 - 1a,-203.0,6301.26,6301.26,OK
+2026-06-12,2026-06-12,"Recibo Vodafone Servicios, S.l.u., Concepto: Notprovided",-32.1,6504.26,6504.26,OK
+2026-06-11,2026-06-11,"Recibo Sirinx S.l., Concepto: Jun26/alex Escobar Holgado/insc. 60,00",-152.0,6536.36,6536.36,OK
+2026-06-10,2026-06-10,"Recibo Aramark Servicios De Catering Nº Recibo 0049 5292 755 Bbnhszv Ref. Mandato 367773, De",-94.24,6688.36,6688.36,OK
+2026-06-10,2026-06-10,"Recibo Prointal S.l Nº Recibo 0049 5292 755 Bbnhrkp Ref. Mandato 00000613015292787770161320000492210, De",-41.91,6782.6,6782.6,OK
+2026-06-08,2026-06-08,"Transferencia De Escobar Ramirez Maria Isabel, Concepto Comida Domingo 7.",119.0,6824.51,6824.51,OK
+2026-06-04,2026-06-04,"Recibo Santander Vida, Concepto: Poliza:218200019945-000000-seg Cap Prot",-183.24,6705.51,6705.51,OK
+2026-06-04,2026-06-04,"Recibo Santander Generales, Concepto: Mi Hogar Santander:051492715852 Periodo:03-jun-26 03-jun-27 Prima Neta:349,49eur Recargos Ccs:10,84eur Ips:27,96eur",-388.29,6888.75,6888.75,OK
+2026-06-02,2026-06-02,"Transferencia De Eduardo Warein Holgado Lage, Concepto Hipoteca.",1100.0,7277.04,7277.04,OK
+2026-06-02,2026-06-02,Transferencia Inmediata A Favor De Cidi Madrugadores Concepto Alex Escobar / San Mateo - Madrugadores Junio 2026,-16.0,6177.04,6177.04,OK
+2026-06-02,2026-05-31,Liquidacion Periodica Prestamo 0049 5292 103 0607630,-501.91,6193.04,6193.04,OK
+2026-06-01,2026-06-01,"Transferencia De Escobar Ramirez Maria Isabel, Concepto Gastos Junio 2026.",1100.0,6694.95,6694.95,OK
+2026-06-01,2026-06-01,"Recibo Excmo. Ayuntamiento De Salamanca Nº Recibo 0049 5292 755 Bbnfwlr Ref. Mandato 230010331723, De",-164.41,5594.95,5594.95,OK
+2026-06-01,2026-06-01,"Recibo Excmo. Ayuntamiento De Salamanca Nº Recibo 0049 5292 755 Bbnfwlq Ref. Mandato 230010331721, De",-12.31,5759.36,5759.36,OK
+2026-06-01,2026-06-01,Liquidacion De Las Tarjetas De Credito Del Contrato 0049 5292 502 1915579,-499.0,5771.67,5771.67,OK
+2026-05-29,2026-05-29,"Recibo Repsol, S.l.u., Concepto: Repsol 4302867041",-51.03,6270.67,6270.67,OK
+2026-05-26,2026-05-26,Transferencia Inmediata A Favor De Piscinas Comunidad Mediodia Concepto Piscina Verano 2026 Carnet 116 Warein Holgado,-160.0,6321.7,6321.7,OK
+2026-05-18,2026-05-18,Transferencia A Favor De Comunidad Miguel Mihura 2-4 Concepto: Derrama Ascensor - Escalera 3 1a 000311,-140.0,6481.7,6481.7,OK
+2026-05-18,2026-05-18,Traspaso:,-110.0,6621.7,6621.7,OK
+2026-05-13,2026-05-13,"Recibo Vodafone Servicios, S.l.u., Concepto: Factura: Lowi.es:/ci00000093186231/",-31.9,6731.7,6731.7,OK
+2026-05-12,2026-05-12,"Recibo Aramark Servicios De Catering Nº Recibo 0049 5292 755 Bbndylg Ref. Mandato 367773, De",-79.36,6763.6,6763.6,OK
+2026-05-12,2026-05-12,Transferencia A Favor De Comunidad Miguel Mihura 2-4 Concepto: Miguel Mihura 2 - Escalera 3 - 1a,-203.0,6842.96,6842.96,OK
+2026-05-11,2026-05-11,"Recibo Sirinx S.l., Concepto: May26/alex Escobar Holgado",-92.0,7045.96,7045.96,OK
+2026-05-08,2026-05-08,Transferencia Inmediata A Favor De María Josefa Lage Santos Concepto Trf 2026 Préstamo Hipoteca,-1500.0,7137.96,7137.96,OK
+2026-05-06,2026-05-06,"Recibo Prointal S.l, Concepto: Remesa Abonos Y Cursos Mayo 2026 Recibo: 518743/01/may Renovacion Actividad Pilx17:15ga26 (ga-pre. Inicia. L-x 17:15 2025/26)-41,91",-41.91,8637.96,8637.96,OK
+2026-05-04,2026-05-04,"Transferencia De Eduardo Warein Holgado Lage, Concepto Hipoteca.",1100.0,8679.87,8679.87,OK
+2026-05-04,2026-05-04,"Transferencia De Escobar Ramirez Maria Isabel, .",1100.0,7579.87,7579.87,OK
+2026-05-04,2026-05-04,Liquidacion De Las Tarjetas De Credito Del Contrato 0049 5292 502 1915579,-575.1,6479.87,6479.87,OK
+2026-04-30,2026-04-30,Transferencia Inmediata A Favor De Punto Curioso Concepto Alex Escobar - Tercer Trimestre 2526,-48.0,7054.97,7054.97,OK
+2026-04-30,2026-04-30,Liquidacion Periodica Prestamo 0049 5292 103 0607630,-501.91,7102.97,7102.97,OK
+2026-04-29,2026-04-29,"Recibo Repsol, S.l.u., Concepto: Repsol 4302867041",-49.7,7604.88,7604.88,OK
+2026-04-16,2026-04-16,Transferencia A Favor De Comunidad Miguel Mihura 2-4 Concepto: Derrama Ascensor - Escalera 3 1a 000311,-140.0,7654.58,7654.58,OK
+2026-04-14,2026-04-14,"Recibo Vodafone Servicios, S.l.u., Concepto: Factura: Lowi.es:/ci00000092048995/",-31.9,7794.58,7794.58,OK
+2026-04-13,2026-04-13,"Recibo Sirinx S.l., Concepto: Abr26/alex Escobar Holgado",-92.0,7826.48,7826.48,OK
+2026-04-10,2026-04-10,Transferencia A Favor De Comunidad Miguel Mihura 2-4 Concepto: Miguel Mihura 2 - Escalera 3 - 1a,-203.0,7918.48,7918.48,OK
+2026-04-08,2026-04-08,"Recibo Aramark Servicios De Catering Nº Recibo 0049 5292 755 Bbnbjdr Ref. Mandato 367773, De",-94.24,8121.48,8121.48,OK
+2026-04-07,2026-04-07,"Recibo Prointal S.l Nº Recibo 0049 5292 755 Bbmzyfj Ref. Mandato 00000613015292787770161320000492210, De",-41.91,8215.72,8215.72,OK
+2026-04-02,2026-04-02,"Transferencia De Eduardo Warein Holgado Lage, Concepto Hipoteca.",1100.0,8257.63,8257.63,OK
+2026-04-01,2026-04-01,"Transferencia De Escobar Ramirez Maria Isabel, Concepto Gastos Abril 2026.",1100.0,7157.63,7157.63,OK
+2026-04-01,2026-04-01,Liquidacion De Las Tarjetas De Credito Del Contrato 0049 5292 502 1915579,-580.93,6057.63,6057.63,OK
+2026-03-31,2026-03-31,Liquidacion Periodica Prestamo 0049 5292 103 0607630,-501.91,6638.56,6638.56,OK
+2026-03-31,2026-03-31,"Recibo Repsol, S.l.u., Concepto: Repsol 4302867041",-45.38,7140.47,7140.47,OK
+2026-03-16,2026-03-16,Traspaso: Error Marzo 2026,-1100.0,7185.85,7185.85,OK
+2026-03-16,2026-03-16,"Transferencia De Escobar Ramirez Maria Isabel, Concepto Marzo 2026.",1100.0,8285.85,8285.85,OK
+2026-03-16,2026-03-16,Transferencia A Favor De Comunidad Miguel Mihura 2-4 Concepto: Derrama Ascensor - Escalera 3 1a 000311,-140.0,7185.85,7185.85,OK
+2026-03-13,2026-03-13,"Recibo Vodafone Servicios, S.l.u., Concepto: Notprovided",-32.0,7325.85,7325.85,OK
+2026-03-12,2026-03-12,Transferencia A Favor De Comunidad Miguel Mihura 2-4 Concepto: Miguel Mihura 2 - Escalera 3 - 1a,-203.0,7357.85,7357.85,OK
+2026-03-12,2026-03-12,"Recibo Sirinx S.l., Concepto: Mar26/alex Escobar Holgado",-92.0,7560.85,7560.85,OK
+2026-03-11,2026-03-11,"Recibo Aramark Servicios De Catering Nº Recibo 0049 5292 755 Bbmygdz Ref. Mandato 367773, De",-79.36,7652.85,7652.85,OK
+2026-03-04,2026-03-04,"Recibo Prointal S.l, Concepto: Remesa Abonos Y Cursos Marzo 2026 Recibo: 509837/01/mar Renovacion Actividad Pilx17:15ga26 (ga-pre. Inicia. L-x 17:15 2025/26)-41,91",-41.91,7732.21,7732.21,OK
+2026-03-03,2026-03-03,"Transferencia De Escobar Ramirez Maria Isabel, Concepto Gastos Marzo 2026.",1100.0,7774.12,7774.12,OK
+2026-03-03,2026-03-03,"Recibo Repsol, S.l.u., Concepto: Repsol 4302867041",-60.12,6674.12,6674.12,OK
+2026-03-02,2026-03-02,"Transferencia De Eduardo Warein Holgado Lage, Concepto Hipoteca.",1100.0,6734.24,6734.24,OK
+2026-03-02,2026-03-02,Liquidacion De Las Tarjetas De Credito Del Contrato 0049 5292 502 1915579,-77.49,5634.24,5634.24,OK
+2026-03-02,2026-02-28,Liquidacion Periodica Prestamo 0049 5292 103 0607630,-501.91,5711.73,5711.73,OK
+2026-02-18,2026-02-18,"Recibo Prointal S.l Nº Recibo 0049 5292 755 Bbmvybv Ref. Mandato 00000613015292787770161320000492210, De",-41.91,6213.64,6213.64,OK
+2026-02-16,2026-02-16,Transferencia A Favor De Comunidad Miguel Mihura 2-4 Concepto: Derrama Ascensor - Escalera 3 1a 000311,-140.0,6255.55,6255.55,OK
+2026-02-13,2026-02-13,"Recibo Vodafone Servicios, S.l.u., Concepto: Factura: Lowi.es:/ci00000089794318/",-31.9,6395.55,6395.55,OK
+2026-02-12,2026-02-12,Transferencia A Favor De Comunidad Miguel Mihura 2-4 Concepto: Miguel Mihura 2 - Escalera 3 - 1a,-203.0,6427.45,6427.45,OK
+2026-02-11,2026-02-11,"Recibo Aramark Servicios De Catering Nº Recibo 0049 5292 755 Bbmvrhg Ref. Mandato 367773, De",-79.36,6630.45,6630.45,OK
+2026-02-11,2026-02-11,"Recibo Sirinx S.l., Concepto: Feb26/alex Escobar Holgado",-92.0,6709.81,6709.81,OK
+2026-02-02,2026-02-02,"Transferencia De Eduardo Warein Holgado Lage, Concepto Hipoteca.",1100.0,6801.81,6801.81,OK
+2026-02-02,2026-02-02,"Transferencia De Escobar Ramirez Maria Isabel, Concepto Hipoteca Febrero.",1100.0,5701.81,5701.81,OK
+2026-02-02,2026-01-31,Liquidacion Periodica Prestamo 0049 5292 103 0607630,-501.91,4601.81,4601.81,OK
+2026-02-02,2026-02-02,Liquidacion De Las Tarjetas De Credito Del Contrato 0049 5292 502 1915579,-122.38,5103.72,5103.72,OK
+2026-01-29,2026-01-29,"Recibo Repsol, S.l.u., Concepto: Repsol 4302867041",-67.45,5226.1,5226.1,OK
+2026-01-19,2026-01-19,"Recibo Prointal S.l Nº Recibo 0049 5292 755 Bbmsqvq Ref. Mandato 00000613015292787770161320000492210, De",-41.91,5293.55,5293.55,OK
+2026-01-16,2026-01-16,Transferencia A Favor De Comunidad Miguel Mihura 2-4 Concepto: Derrama Ascensor - Escalera 3 1a 000311,-140.0,5335.46,5335.46,OK
+2026-01-14,2026-01-14,"Recibo Vodafone Servicios, S.l.u., Concepto: Factura: Lowi.es:/ci00000088678481/",-31.9,5475.46,5475.46,OK
+2026-01-12,2026-01-12,Transferencia A Favor De Comunidad Miguel Mihura 2-4 Concepto: Miguel Mihura 2 - Escalera 3 - 1a,-203.0,5507.36,5507.36,OK
+2026-01-12,2026-01-12,"Recibo Sirinx S.l. Ene26/alex Escobar Holgado Nº Recibo 0049 5292 755 Bbmsgqj Ref. Mandato 70885181d, De",-92.0,5710.36,5710.36,OK
+2026-01-08,2026-01-08,"Recibo Aramark Servicios De Catering Nº Recibo 0049 5292 755 Bbmscwh Ref. Mandato 367773, De",-69.44,5802.36,5802.36,OK
+2026-01-07,2026-01-07,Transferencia Inmediata A Favor De Rebeca Martín García Concepto Alex Escobar - 2 Trimestre 2526,-72.0,5871.8,5871.8,OK
+2026-01-05,2026-01-05,Transferencia A Favor De Escobar Ramirez Maria Isabel Concepto: Devuelto Enero,-1100.0,5943.8,5943.8,OK
+2026-01-02,2026-01-02,"Transferencia De Eduardo Warein Holgado Lage, Concepto Hipoteca.",1100.0,7043.8,7043.8,OK
+2026-01-02,2026-01-02,"Transferencia De Escobar Ramirez Maria Isabel, Concepto Gastos Enero 2026.",1100.0,5943.8,5943.8,OK
+2026-01-02,2026-01-02,Liquidacion De Las Tarjetas De Credito Del Contrato 0049 5292 502 1915579,-499.97,4843.8,4843.8,OK
+2025-12-31,2025-12-31,Liquidacion Periodica Prestamo 0049 5292 103 0607630,-501.91,5343.77,5343.77,OK
+2025-12-30,2025-12-30,"Recibo Repsol, S.l.u. Repsol 4302867041 Nº Recibo 0049 5292 755 Bbmqzls Ref. Mandato 002402866318, De",-58.16,5845.68,5845.68,OK
+2025-12-23,2025-12-23,"Recibo Prointal S.l Remesa Abonos Y Actividades Diciembre 25 1 Recibo: 486819/01/dic Renovacion Actividad Pilx17:15ga26 (ga-pre. Inicia. L-x 17:15 2025/26)-41,2 Nº Recibo 0049 5292 755 Bbmqpsn Ref. Mandato 00000613015292787770161320000492210, De",-41.24,5903.84,5903.84,OK
+2025-12-22,2025-12-22,Transferencia A Favor De Escobar Ramirez Maria Isabel Concepto: Exceso Luisa,-380.0,5945.08,5945.08,OK
+2025-12-22,2025-12-20,"Transferencia Inmediata De Maria Luisa Escobar Ramirez, Concepto Finiquitado",1380.0,6325.08,6325.08,OK
+2025-12-16,2025-12-16,Transferencia A Favor De Comunidad Miguel Mihura 2-4 Concepto: Derrama Ascensor - Escalera 3 1a 000311,-140.0,4945.08,4945.08,OK
+2025-12-12,2025-12-12,Transferencia A Favor De Comunidad Miguel Mihura 2-4 Concepto: Miguel Mihura 2 - Escalera 3 - 1a,-203.0,5085.08,5085.08,OK
+2025-12-12,2025-12-12,"Recibo Vodafone Servicios, S.l.u. Factura: Lowi.es:/ci00000087563881/ Nº Recibo 0049 5292 755 Bbmqdb",-31.9,5288.08,5288.08,OK
+2025-12-11,2025-12-11,Recibo Sirinx S.l. Dic25/alex Escobar Holgado Nº Recibo 0049 5292 755 Bbmqbkj Ref. Mandato 70885181d,-92.0,5319.98,5319.98,OK
+2025-12-10,2025-12-10,"Recibo Aramark Servicios De Catering Nº Recibo 0049 5292 755 Bbmqbcc Ref. Mandato 367773, De",-99.2,5411.98,5411.98,OK
+2025-12-02,2025-12-02,"Transferencia De Eduardo Warein Holgado Lage, Concepto Hipoteca.",1100.0,5511.18,5511.18,OK
+2025-12-02,2025-11-30,Liquidacion Periodica Prestamo 0049 5292 103 0607630,-501.91,4411.18,4411.18,OK
+2025-12-02,2025-12-01,Transferencia Inmediata A Favor De Eduardo Warein Holgado Lage Concepto Limpieza Diciembre,-150.0,4913.09,4913.09,OK
+2025-12-01,2025-12-01,"Transferencia De Escobar Ramirez Maria Isabel, Concepto Gatos Diciembre.",1100.0,5063.09,5063.09,OK
+2025-12-01,2025-12-01,Liquidacion De Las Tarjetas De Credito Del Contrato 0049 5292 502 1915579,-522.23,3963.09,3963.09,OK
+2025-11-28,2025-11-28,"Recibo Repsol, S.l.u. Repsol 4302867041 Nº Recibo 0049 5292 755 Bbmnxcw Ref. Mandato 002402866318, De",-62.27,4485.32,4485.32,OK
+2025-11-26,2025-11-26,"Recibo Prointal S.l Nº Recibo 0049 5292 755 Bbmnlpl Ref. Mandato 00000613015292787770161320000492210, De",-41.24,4547.59,4547.59,OK
+2025-11-20,2025-11-18,Retrocesion Recibo Prointal S.l Nº Recibo 0049 5292 755 Bbmnbds Ref. Mandato 00000613015292787770161320000492210,41.24,4588.83,4588.83,OK
+2025-11-18,2025-11-18,"Recibo Prointal S.l Nº Recibo 0049 5292 755 Bbmnbds Ref. Mandato 00000613015292787770161320000492210, De",-41.24,4547.59,4547.59,OK
+2025-11-17,2025-11-17,Transferencia A Favor De Comunidad Miguel Mihura 2-4 Concepto: Derrama Ascensor - Escalera 3 1a 000311,-140.0,4588.83,4588.83,OK
+2025-11-12,2025-11-12,Transferencia A Favor De Comunidad Miguel Mihura 2-4 Concepto: Miguel Mihura 2 - Escalera 3 - 1a,-203.0,4728.83,4728.83,OK
+2025-11-12,2025-11-12,"Recibo Sirinx S.l. Nov25/alex Escobar Holgado Nº Recibo 0049 5292 755 Bbmmvqc Ref. Mandato 70885181d, De",-92.0,4931.83,4931.83,OK
+2025-11-12,2025-11-12,"Recibo Vodafone Servicios, S.l.u. Factura: Lowi.es:/ci00000086450361/ Nº Recibo 0049 5292 755 Bbmmvjc Ref. Mandato 9902113124, De",-31.9,5023.83,5023.83,OK
+2025-11-11,2025-11-11,"Recibo Aramark Servicios De Catering Nº Recibo 0049 5292 755 Bbmmtxx Ref. Mandato 367773, De",-99.2,5055.73,5055.73,OK
+2025-11-06,2025-11-06,Retirada De Efectivo En Cajero Automatico 004952920010 El 06/11/2025 A Las 17:48..pan:5415411648629217.,-110.0,5154.93,5154.93,OK
+2025-11-03,2025-11-03,"Transferencia De Eduardo Warein Holgado Lage, Concepto Hipoteca.",1100.0,5264.93,5264.93,OK
+2025-11-03,2025-11-03,"Transferencia De Escobar Ramirez Maria Isabel, Concepto Noviembre 2025.",1000.0,4164.93,4164.93,OK
+2025-11-03,2025-11-03,Liquidacion De Las Tarjetas De Credito Del Contrato 0049 5292 502 1915579,-468.57,3164.93,3164.93,OK
+2025-10-31,2025-10-31,Liquidacion Periodica Prestamo 0049 5292 103 0607630,-501.91,3633.5,3633.5,OK
+2025-10-31,2025-10-31,"Recibo Excmo. Ayuntamiento De Salamanca Nº Recibo 0049 5292 755 Bbmlbnk Ref. Mandato 230010331723, De",-164.41,4135.41,4135.41,OK
+2025-10-31,2025-10-31,"Recibo Excmo. Ayuntamiento De Salamanca Nº Recibo 0049 5292 755 Bbmlbmq Ref. Mandato 230010331721, De",-12.31,4299.82,4299.82,OK
+2025-10-29,2025-10-29,"Recibo Aramark Servicios De Catering Nº Recibo 0049 5292 755 Bbmllcv Ref. Mandato 367773, De",-79.36,4312.13,4312.13,OK
+2025-10-29,2025-10-29,"Recibo Repsol, S.l.u. Repsol 4302867041 Nº Recibo 0049 5292 755 Bbmlkvp Ref. Mandato 002402866318, De",-55.39,4391.49,4391.49,OK
+2025-10-22,2025-10-22,"Recibo Prointal S.l Remesa Abonos Y Cursos Octubre 2025 Recibo: 478369/01/oct Renovacion Actividad Pilx17:15ga26 (ga-pre. Inicia. L-x 17:15 2025/26)-41,24 Nº Recibo 0049 5292 755 Bbmkrbl Ref. Mandato 00000613015292787770161320000492210, De",-41.24,4446.88,4446.88,OK
+2025-10-16,2025-10-16,Transferencia A Favor De Comunidad Miguel Mihura 2-4 Concepto: Derrama Ascensor - Escalera 3 1a 000311,-140.0,4488.12,4488.12,OK
+2025-10-16,2025-10-16,"Recibo Sirinx S.l. Oct25/alex Escobar Holgado Nº Recibo 0049 5292 755 Bbmkljx Ref. Mandato 70885181d, De",-92.0,4628.12,4628.12,OK
+2025-10-15,2025-10-15,"Recibo Prointal S.l Remesa Cursos Septiembre 2025 26 Recibo: 474264/matricula Actividad 2025/26-3,27/22/sep Renovacion Actividad Pilx17:15ga26 (ga-pre. Inicia. Nº Recibo 0049 5292 755 Bbmkkhq Ref. Mandato 00000613015292787770161320000492210, De",-15.64,4720.12,4720.12,OK
+2025-10-10,2025-10-10,Transferencia A Favor De Comunidad Miguel Mihura 2-4 Concepto: Miguel Mihura 2 - Escalera 3 - 1a,-203.0,4735.76,4735.76,OK
+2025-10-10,2025-10-10,"Recibo Vodafone Servicios, S.l.u. Factura: Lowi.es:/ci00000085342812/ Nº Recibo 0049 5292 755 Bbmkdbj Ref. Mandato 9902113124, De",-31.9,4938.76,4938.76,OK
+2025-10-02,2025-10-02,Retirada De Efectivo En Cajero Automatico 004952920000 El 02/10/2025 A Las 17:32..pan:5415411648629217.,-150.0,4970.66,4970.66,OK
+2025-10-02,2025-10-02,"Transferencia De Eduardo Warein Holgado Lage, Concepto Hipoteca.",1100.0,5120.66,5120.66,OK
+2025-10-02,2025-10-02,"Transferencia De Escobar Ramirez Maria Isabel, Concepto Gastos Octubre 2025.",1000.0,4020.66,4020.66,OK
+2025-10-01,2025-10-01,Liquidacion De Las Tarjetas De Credito Del Contrato 0049 5292 502 1915579,-479.89,3020.66,3020.66,OK
+2025-09-30,2025-09-30,Liquidacion Periodica Prestamo 0049 5292 103 0607630,-501.91,3500.55,3500.55,OK
+2025-09-30,2025-09-30,"Recibo Repsol, S.l.u. Repsol 4302867041 Nº Recibo 0049 5292 755 Bbmhzzl Ref. Mandato 002402866318, De",-58.55,4002.46,4002.46,OK
+2025-09-19,2025-09-19,"Recibo Sirinx S.l. Sep25/alex Escobar Holgado Nº Recibo 0049 5292 755 Bbmhcfd Ref. Mandato 70885181d, De",-92.0,4061.01,4061.01,OK
+2025-09-16,2025-09-16,Transferencia A Favor De Comunidad Miguel Mihura 2-4 Concepto: Derrama Ascensor - Escalera 3 1a 000311,-140.0,4153.01,4153.01,OK
+2025-09-15,2025-09-15,"Recibo Prointal S.l Nº Recibo 0049 5292 755 Bbmgwpm Ref. Mandato 00000613015292787770161320000492210, De",-41.24,4293.01,4293.01,OK
+2025-09-12,2025-09-12,Transferencia A Favor De Comunidad Miguel Mihura 2-4 Concepto: Miguel Mihura 2 - Escalera 3 - 1a,-203.0,4334.25,4334.25,OK
+2025-09-12,2025-09-12,"Recibo Vodafone Servicios, S.l.u. Factura: Lowi.es:/ci00000084243051/ Nº Recibo 0049 5292 755 Bbmgvnk Ref. Mandato 9902113124, De",-31.9,4537.25,4537.25,OK
+2025-09-04,2025-09-04,Transferencia Inmediata A Favor De Punto Curioso Concepto 2526 1t Alex Escobar,-60.0,4569.15,4569.15,OK
+2025-09-02,2025-09-02,"Transferencia De Eduardo Warein Holgado Lage, Concepto Hipoteca.",1100.0,4629.15,4629.15,OK
+2025-09-02,2025-08-31,Liquidacion Periodica Prestamo 0049 5292 103 0607630,-501.91,3529.15,3529.15,OK
+2025-09-01,2025-09-01,"Transferencia De Escobar Ramirez Maria Isabel, Concepto Gastos Septiembre 2025.",1100.0,4031.06,4031.06,OK
+2025-09-01,2025-09-01,Liquidacion De Las Tarjetas De Credito Del Contrato 0049 5292 502 1915579,-553.22,2931.06,2931.06,OK
+2025-08-29,2025-08-29,"Recibo Repsol, S.l.u. Repsol 4302867041 Nº Recibo 0049 5292 755 Bbmfqlj Ref. Mandato 002402866318, De",-52.27,3484.28,3484.28,OK
+2025-08-18,2025-08-18,Transferencia A Favor De Comunidad Miguel Mihura 2-4 Concepto: Derrama Ascensor - Escalera 3 1a 000311,-140.0,3536.55,3536.55,OK
+2025-08-13,2025-08-13,"Recibo Repsol, S.l.u. Repsol 4302867041 Nº Recibo 0049 5292 755 Bbmdnnn Ref. Mandato 002402866318, De",-52.76,3676.55,3676.55,OK
+2025-08-12,2025-08-12,Transferencia A Favor De Comunidad Miguel Mihura 2-4 Concepto: Miguel Mihura 2 - Escalera 3 - 1a,-203.0,3729.31,3729.31,OK
+2025-08-12,2025-08-12,"Recibo Vodafone Servicios, S.l.u. Factura: Lowi.es:/ci00000083145358/ Nº Recibo 0049 5292 755 Bbmdkvl Ref. Mandato 9902113124, De",-33.45,3932.31,3932.31,OK
+2025-08-11,2025-08-11,"Transferencia De Santander Vida Seguros Y Reaseguros S.a., Concepto Devolucion Suplemento Seguro Num.",0.15,3965.76,3965.76,OK
+2025-08-08,2025-08-08,"Transferencia De Escobar Ramirez Maria Isabel, Concepto Comillas 2025.",70.0,3965.61,3965.61,OK
+2025-08-08,2025-08-08,Retirada De Efectivo En Cajero Automatico 004949040000 El 2025-08-08 A Las 13:02..pan:5415411639564027.,-70.0,3895.61,3895.61,OK
+2025-08-08,2025-08-08,Amortizacion Anticipada Prestamo 0049 5292 103 0607630,-70.0,3965.61,3965.61,OK
+2025-08-08,2025-08-08,"Transferencia De Santander Vida Seguros Y Reaseguros S.a., Concepto Devolucion Suplemento Seguro Num.",0.26,4035.61,4035.61,OK
+2025-08-07,2025-08-07,Amortizacion Anticipada Prestamo 0049 5292 103 0607630,-200.0,4035.35,4035.35,OK
+2025-08-07,2025-08-07,"Transferencia De Santander Vida Seguros Y Reaseguros S.a., Concepto Devolucion Suplemento Seguro Num.",0.13,4235.35,4235.35,OK
+2025-08-06,2025-08-06,Amortizacion Anticipada Prestamo 0049 5292 103 0607630,-100.0,4235.22,4235.22,OK
+2025-08-06,2025-08-06,"Transferencia De Santander Vida Seguros Y Reaseguros S.a., Concepto Devolucion Suplemento Seguro Num.",2.5,4335.22,4335.22,OK
+2025-08-06,2025-08-06,"Transferencia De Eduardo Warein Holgado Lage, Concepto Amortizacion Agosto 2.",408.0,4332.72,4332.72,OK
+2025-08-06,2025-08-06,"Transferencia De Eduardo Warein Holgado Lage, Concepto Amortizacion Agosto.",502.0,3924.72,3924.72,OK
+2025-08-05,2025-08-05,Amortizacion Anticipada Prestamo 0049 5292 103 0607630,-408.0,3422.72,3422.72,OK
+2025-08-05,2025-08-05,Amortizacion Anticipada Prestamo 0049 5292 103 0607630,-502.0,3830.72,3830.72,OK
+2025-08-04,2025-08-04,"Transferencia De Eduardo Warein Holgado Lage, Concepto Hipoteca.",1100.0,4332.72,4332.72,OK
+2025-08-04,2025-08-04,"Transferencia De Escobar Ramirez Maria Isabel, Concepto Gastos Agosto 2025.",1100.0,3232.72,3232.72,OK
+2025-08-01,2025-08-01,Liquidacion De Las Tarjetas De Credito Del Contrato 0049 5292 502 1915579,-363.7,2132.72,2132.72,OK
+2025-07-31,2025-07-31,Liquidacion Periodica Prestamo 0049 5292 103 0607630,-501.91,2496.42,2496.42,OK
+2025-07-16,2025-07-16,Transferencia A Favor De Comunidad Miguel Mihura 2-4 Concepto: Derrama Ascensor - Escalera 3 1a 000311,-140.0,2998.33,2998.33,OK
+2025-07-14,2025-07-14,"Recibo Vodafone Servicios, S.l.u. Notprovided Nº Recibo 0049 5292 755 Bbmbjhm Ref. Mandato 9902113124, De",-36.5,3138.33,3138.33,OK
+2025-07-11,2025-07-11,Transferencia A Favor De Comunidad Miguel Mihura 2-4 Concepto: Miguel Mihura 2 - Escalera 3 - 1a,-203.0,3174.83,3174.83,OK
+2025-07-08,2025-07-07,Transferencia Inmediata A Favor De Ampa Ceip San Mateo Salamanca Concepto Libros Warein Holgado,-23.2,3377.83,3377.83,OK
+2025-07-04,2025-07-04,Transferencia Inmediata A Favor De Ampa Ceip San Mateo Salamanca Concepto Warein Holgado - 2025 2026,-20.0,3401.03,3401.03,OK
+2025-07-02,2025-07-02,"Transferencia De Eduardo Warein Holgado Lage, Concepto Hipoteca.",1100.0,3421.03,3421.03,OK
+2025-07-02,2025-07-01,Transferencia Inmediata A Favor De Escuela Katiuskas Concepto Alex Escobar Holgado - Verano 2025,-560.0,2321.03,2321.03,OK
+2025-07-01,2025-07-01,"Transferencia De Escobar Ramirez Maria Isabel, Concepto Gastos Julio.",1100.0,2881.03,2881.03,OK
+2025-07-01,2025-07-01,"Recibo Aramark Servicios De Catering Nº Recibo 0049 5292 755 Bblzlbq Ref. Mandato 367773, De",-69.44,1781.03,1781.03,OK
+2025-07-01,2025-06-30,Liquidacion Periodica Prestamo 0049 5292 103 0607630,-501.91,1850.47,1850.47,OK
+2025-07-01,2025-07-01,Liquidacion De Las Tarjetas De Credito Del Contrato 0049 5292 502 1915579,-643.31,2352.38,2352.38,OK
+2025-07-01,2025-07-01,"Recibo Repsol, S.l.u. Repsol 4302867041 Nº Recibo 0049 5292 755 Bblzjtb Ref. Mandato 002402866318, De",-54.76,2995.69,2995.69,OK
+2025-06-25,2025-06-25,"Recibo Prointal S.l Nº Recibo 0049 5292 755 Bblyljl Ref. Mandato 00000613015292787770161320000492210, De",-41.24,3050.45,3050.45,OK
+2025-06-25,2025-06-25,"Recibo Prointal S.l Nº Recibo 0049 5292 755 Bblylht Ref. Mandato 00000613015292787770161320000492210, De",-40.28,3091.69,3091.69,OK
+2025-06-18,2025-06-18,"Recibo Procesos Integrales Al F.m.s. S.l Remesa Abonos Y Cursos Febrero 2025 Santander Recibo: 457397/01/feb Renovacion Actividad Pilx17:15ga25 (ga-pre. Inicia. L-x 17:15 2024/25)-4 Nº Recibo 0049 5292 755 Bblyfqd Ref. Mandato 00000613015292787770161320000492210, De",-41.24,3131.97,3131.97,OK
+2025-06-16,2025-06-16,"Recibo Mutua Madrilena Automovilista Seguros Nº Recibo 0049 5292 755 Bblxtyv Ref. Mandato 01010010162335, De",-526.41,3173.21,3173.21,OK
+2025-06-12,2025-06-12,Transferencia A Favor De Comunidad Miguel Mihura 2-4 Concepto: Miguel Mihura 2 - Escalera 3 - 1a,-203.0,3699.62,3699.62,OK
+2025-06-12,2025-06-12,"Recibo Vodafone Notprovided Nº Recibo 0049 5292 755 Bblxxxm Ref. Mandato 9902113124, De",-34.45,3902.62,3902.62,OK
+2025-06-11,2025-06-11,"Recibo Sirinx S.l. Jun25/alex Escobar Holgado Sensib.78,00/insc.60,00 Nº Recibo 0049 5292 755 Bblxwrg Ref. Mandato 70885181d, De",-138.0,3937.07,3937.07,OK
+2025-06-06,2025-06-06,"Recibo Aramark Servicios De Catering Nº Recibo 0049 5292 755 Bblxqtm Ref. Mandato 367773, De",-99.2,4075.07,4075.07,OK
+2025-06-04,2025-06-04,"Recibo Santander Vida Poliza:218200019945-000000-seg Cap Prot Nº Recibo 0049 5292 755 Bblxlkj Ref. Mandato 2182a001c338, De",-181.39,4174.27,4174.27,OK
+2025-06-04,2025-06-04,"Recibo Santander Generales Mi Hogar Santander:051492715852 Periodo:03-jun-25 03-jun-26 Prima Neta:323,60eur Recargos Ccs:10,60eur Ips:25,89eur Nº Recibo 0049 5292 755 Bblxhyl Ref. Mandato 00495292007346800300001, De Not Provided",-360.09,4355.66,4355.66,OK
+2025-06-02,2025-06-02,"Transferencia De Eduardo Warein Holgado Lage, Concepto Hipoteca.",1000.0,4715.75,4715.75,OK
+2025-06-02,2025-06-02,"Recibo Excmo. Ayuntamiento De Salamanca Nº Recibo 0049 5292 755 Bblwgct Ref. Mandato 230010331723, De",-164.41,3715.75,3715.75,OK
+2025-06-02,2025-06-02,"Recibo Excmo. Ayuntamiento De Salamanca Nº Recibo 0049 5292 755 Bblwgcs Ref. Mandato 230010331721, De",-12.31,3880.16,3880.16,OK
+2025-06-02,2025-06-02,"Transferencia De Escobar Ramirez Maria Isabel, Concepto Gastos Junio 2025.",1000.0,3892.47,3892.47,OK
+2025-06-02,2025-06-02,Liquidacion De Las Tarjetas De Credito Del Contrato 0049 5292 502 1915579,-493.89,2892.47,2892.47,OK
+2025-06-02,2025-05-31,Liquidacion Periodica Prestamo 0049 5292 103 0607630,-501.91,3386.36,3386.36,OK
+2025-05-29,2025-05-29,"Recibo Repsol, S.l.u. Repsol 4302867041 Nº Recibo 0049 5292 755 Bblwndl Ref. Mandato 002402866318, De",-48.9,3888.27,3888.27,OK
+2025-05-23,2025-05-23,Transferencia Inmediata A Favor De Jantipe Gil Jimenez Concepto Colchon Isabel,-149.0,3937.17,3937.17,OK
+2025-05-19,2025-05-19,Transferencia Inmediata A Favor De Piscinas Comunidad Mediodia Concepto Piscina Verano 2025 Carnet 116 Warein Holgado,-160.0,4086.17,4086.17,OK
+2025-05-12,2025-05-12,Transferencia A Favor De Comunidad Miguel Mihura 2-4 Concepto: Miguel Mihura 2 - Escalera 3 - 1a,-203.0,4246.17,4246.17,OK
+2025-05-12,2025-05-12,"Recibo Vodafone Notprovided Nº Recibo 0049 5292 755 Bbltyvg Ref. Mandato 9902113124, De",-32.0,4449.17,4449.17,OK
+2025-05-09,2025-05-09,"Recibo Aramark Servicios De Catering Nº Recibo 0049 5292 755 Bbltyfw Ref. Mandato 367773, De",-64.48,4481.17,4481.17,OK
+2025-05-09,2025-05-09,"Recibo Sirinx S.l. May25/alex Escobar Holgado Sensib.78,00 Nº Recibo 0049 5292 755 Bbltxrp Ref. Mandato 70885181d, De",-78.0,4545.65,4545.65,OK
+2025-05-05,2025-05-05,Transferencia Inmediata A Favor De María Josefa Lage Santos Concepto Trf 2025 Préstamo Hipoteca,-1500.0,4623.65,4623.65,OK
+2025-05-05,2025-05-05,"Recibo Repsol, S.l.u. Repsol 4302867041 Nº Recibo 0049 5292 755 Bbltjrr Ref. Mandato 002402866318, De",-51.52,6123.65,6123.65,OK
+2025-05-05,2025-05-05,"Transferencia De Escobar Ramirez Maria Isabel, Concepto Gastos Mayo.",1000.0,6175.17,6175.17,OK
+2025-05-02,2025-05-02,"Transferencia De Eduardo Warein Holgado Lage, Concepto Hipoteca.",1000.0,5175.17,5175.17,OK
+2025-05-02,2025-05-02,Liquidacion De Las Tarjetas De Credito Del Contrato 0049 5292 502 1915579,-535.83,4175.17,4175.17,OK
+2025-04-30,2025-04-30,Liquidacion Periodica Prestamo 0049 5292 103 0607630,-501.91,4711.0,4711.0,OK
+2025-04-16,2025-04-16,"Recibo Prointal S.l Remesa Abonos Y Cursos Marzo 2025 Recibo: 441855/01/mar Renovacion Actividad Pilx17:15ga25 (ga-pre. Inicia. L-x 17:15 2024/25)-41,24 Nº Recibo 0049 5292 755 Bblryth Ref. Mandato 00000613015292787770161320000492210, De",-41.24,5212.91,5212.91,OK
+2025-04-14,2025-04-14,"Recibo Vodafone Factura: Lowi.es:/ci00000078807226/ Nº Recibo 0049 5292 755 Bblrtsc Ref. Mandato 9902113124, De",-31.9,5254.15,5254.15,OK
+2025-04-11,2025-04-11,Transferencia A Favor De Comunidad Miguel Mihura 2-4 Concepto: Miguel Mihura 2 - Escalera 3 - 1a,-203.0,5286.05,5286.05,OK
+2025-04-10,2025-04-10,"Recibo Sirinx S.l. Abr25/alex Escobar Holgado Sensib.78,00 Nº Recibo 0049 5292 755 Bblrqyg Ref. Mandato 70885181d, De",-78.0,5489.05,5489.05,OK
+2025-04-09,2025-04-09,"Recibo Aramark Servicios De Catering Nº Recibo 0049 5292 755 Bblrqlw Ref. Mandato 367773, De",-84.32,5567.05,5567.05,OK
+2025-04-02,2025-04-02,Retirada De Efectivo En Cajero Automatico 004913920010 El 02/04/2025 A Las 11:25..pan:5415411648629217.,-150.0,5651.37,5651.37,OK
+2025-04-01,2025-04-01,"Transferencia De Eduardo Warein Holgado Lage, Concepto Hipoteca.",1000.0,5801.37,5801.37,OK
+2025-04-01,2025-04-01,"Transferencia De Escobar Ramirez Maria Isabel, Concepto Gastos Abril 2025.",1000.0,4801.37,4801.37,OK
+2025-04-01,2025-04-01,Liquidacion De Las Tarjetas De Credito Del Contrato 0049 5292 502 1915579,-488.31,3801.37,3801.37,OK
+2025-04-01,2025-03-31,Liquidacion Periodica Prestamo 0049 5292 103 0607630,-501.91,4289.68,4289.68,OK
+2025-04-01,2025-04-01,"Recibo Repsol, S.l.u. Repsol 4302867041 Nº Recibo 0049 5292 755 Bblqtnh Ref. Mandato 002402866318, De",-49.37,4791.59,4791.59,OK
+2025-03-24,2025-03-24,"Transferencia De Eduardo Warein Holgado Lage, Concepto Prueba Transferencia.",0.1,4840.96,4840.96,OK
+2025-03-24,2025-03-21,Transferencia Inmediata A Favor De Conciliamos Cyl Salamanca Concepto Alex Escobar Holgado Concilia Semana Santa,-30.0,4840.86,4840.86,OK
+2025-03-24,2025-03-24,Transferencia A Favor De Warein Holgado Concepto: Transferencia Prueba,-0.1,4870.86,4870.86,OK
+2025-03-12,2025-03-12,Transferencia A Favor De Comunidad Miguel Mihura 2-4 Concepto: Miguel Mihura 2 - Escalera 3 - 1a,-203.0,4870.96,4870.96,OK
+2025-03-12,2025-03-12,"Recibo Vodafone Notprovided Nº Recibo 0049 5292 755 Bblplfy Ref. Mandato 9902113124, De",-34.69,5073.96,5073.96,OK
+2025-03-11,2025-03-11,"Recibo Sirinx S.l. Mar25/alex Escobar Holgado Sensib.78,00 Nº Recibo 0049 5292 755 Bblpkbr Ref. Mandato 70885181d, De",-78.0,5108.65,5108.65,OK
+2025-03-10,2025-03-10,"Recibo Aramark Servicios De Catering Nº Recibo 0049 5292 755 Bblpgnk Ref. Mandato 367773, De",-94.24,5186.65,5186.65,OK
+2025-03-03,2025-03-03,"Transferencia De Eduardo Warein Holgado Lage, Concepto Hipoteca.",1000.0,5280.89,5280.89,OK
+2025-03-03,2025-03-03,"Recibo Repsol, S.l.u. Repsol 4302867041 Nº Recibo 0049 5292 755 Bblnmyw Ref. Mandato 002402866318, De",-56.12,4280.89,4280.89,OK
+2025-03-03,2025-03-03,"Transferencia De Escobar Ramirez Maria Isabel, Concepto Gastos Marzo 2025.",1000.0,4337.01,4337.01,OK
+2025-03-03,2025-03-03,Liquidacion De Las Tarjetas De Credito Del Contrato 0049 5292 502 1915579,-96.68,3337.01,3337.01,OK
+2025-02-28,2025-02-28,Liquidacion Periodica Prestamo 0049 5292 103 0607630,-501.91,3433.69,3433.69,OK
+2025-02-27,2025-02-27,Retirada De Efectivo En Cajero Automatico 004952920010 El 27/02/2025 A Las 18:09..pan:5415411648629217.,-110.0,3935.6,3935.6,OK
+2025-02-13,2025-02-13,"Recibo Procesos Integrales Al F.m.s. S.l Remesa Abonos Y Cursos Noviembre 2024 Recibo: 414979/01/nov Renovacion Actividad Pilx17:15ga25 (ga-pre. Inicia. L-x 17:15 2024/25)-40,28 Nº Recibo 0049 5292 755 Bbllzlp Ref. Mandato 00000613015292787770161320000492210, De",-40.28,4045.6,4045.6,OK
+2025-02-12,2025-02-12,Transferencia A Favor De Comunidad Miguel Mihura 2-4 Concepto: Miguel Mihura 2 - Escalera 3 - 1a,-203.0,4085.88,4085.88,OK
+2025-02-12,2025-02-12,"Recibo Vodafone Factura: Lowi.es:/ci00000076660846/ Nº Recibo 0049 5292 755 Bbllxfv Ref. Mandato 9902113124, De",-31.9,4288.88,4288.88,OK
+2025-02-10,2025-02-10,"Recibo Aramark Servicios De Catering Nº Recibo 0049 5292 755 Bbllsxp Ref. Mandato 367773, De",-64.48,4320.78,4320.78,OK
+2025-02-10,2025-02-10,"Recibo Sirinx S.l. Feb25/alex Escobar Holgado Sensib.78,00 Nº Recibo 0049 5292 755 Bblltwh Ref. Mandato 70885181d, De",-78.0,4385.26,4385.26,OK
+2025-02-04,2025-02-04,"Recibo Piscinas Municipales Nº Recibo 0049 5292 755 Bbllckg Ref. Mandato 00000613015292787770161320000492210, De",-41.24,4463.26,4463.26,OK
+2025-02-04,2025-02-04,"Transferencia De Escobar Ramirez Maria Isabel, Concepto Febrero 2025.",1000.0,4504.5,4504.5,OK
+2025-02-03,2025-02-03,"Transferencia De Eduardo Warein Holgado Lage, Concepto Hipoteca.",1000.0,3504.5,3504.5,OK
+2025-02-03,2025-02-03,Liquidacion De Las Tarjetas De Credito Del Contrato 0049 5292 502 1915579,-143.06,2504.5,2504.5,OK
+2025-01-31,2025-01-31,Liquidacion Periodica Prestamo 0049 5292 103 0607630,-501.91,2647.56,2647.56,OK
+2025-01-30,2025-01-30,"Recibo Repsol, S.l.u.-repsol Comercializadora D Nº Recibo 0049 5292 755 Bblkpxk Ref. Mandato 002402866318, De",-60.19,3149.47,3149.47,OK
+2025-01-14,2025-01-14,"Recibo Vodafone Notprovided Nº Recibo 0049 5292 755 Bbljsvz Ref. Mandato 9902113124, De",-32.0,3209.66,3209.66,OK
+2025-01-13,2025-01-10,Transferencia Inmediata A Favor De Warein Holgado Concepto Enero 2025 Ing,-200.0,3241.66,3241.66,OK
+2025-01-10,2025-01-10,Ingreso  Contra Cuenta En Atm 004952920000 El 10/01/2025 A Las 19:25. Concepto: Enero 2025. . Pan: 5415411632332836.,200.0,3441.66,3441.66,OK
+2025-01-10,2025-01-10,Transferencia A Favor De Comunidad Miguel Mihura 2-4 Concepto: Miguel Mihura 2 - Escalera 3 - 1a,-203.0,3241.66,3241.66,OK
+2025-01-10,2025-01-10,"Recibo Sirinx S.l. Ene25/alex Escobar Holgado Sensib.78,00 Nº Recibo 0049 5292 755 Bbljnzq Ref. Mandato 70885181d, De",-78.0,3444.66,3444.66,OK
+2025-01-07,2025-01-07,"Recibo Aramark Servicios De Catering Nº Recibo 0049 5292 755 Bbljbnn Ref. Mandato 367773, De",-54.56,3522.66,3522.66,OK
+2025-01-03,2025-01-03,"Recibo Repsol, S.l.u.-repsol Comercializadora D Nº Recibo 0049 5292 755 Bblhyxk Ref. Mandato 002402866318, De",-47.39,3577.22,3577.22,OK
+2025-01-03,2025-01-03,"Transferencia De Escobar Ramirez Maria Isabel, Concepto Gastos Enero 2025.",850.0,3624.61,3624.61,OK
+2025-01-02,2025-01-02,"Anulacion Reintegro Contra Cuenta, Atm Suc.5292 El 02/01/2025 A Las 19:32",200.0,2774.61,2774.61,OK
+2025-01-02,2025-01-02,Reintegro Contra Cuenta En Atm 004952920000 El 02/01/2025 A Las 19:32. .pan: 5163830117574568.,-200.0,2574.61,2574.61,OK
+2025-01-02,2025-01-02,"Transferencia De Eduardo Warein Holgado Lage, Concepto Hipoteca.",1000.0,2774.61,2774.61,OK
+2025-01-02,2025-01-02,Liquidacion De Las Tarjetas De Credito Del Contrato 0049 5292 502 1915579,-722.99,1774.61,1774.61,OK
+2024-12-31,2024-12-31,Liquidacion Periodica Prestamo 0049 5292 103 0607630,-492.25,2497.6,2497.6,OK
+2024-12-30,2024-12-30,Amortizacion Anticipada Prestamo 0049 5292 103 0607630,-1500.0,2989.85,2989.85,OK
+2024-12-27,2024-12-27,"Transferencia De Eduardo Warein Holgado Lage, Concepto Amortizacion Diciembre 24.",1500.0,4489.85,4489.85,OK
+2024-12-24,2024-12-24,Traspaso: Luisa 2024,-1250.0,2989.85,2989.85,OK
+2024-12-20,2024-12-20,"Transferencia De Maria Luisa Escobar Ramirez, Concepto Deuda Isa.",1250.0,4239.85,4239.85,OK
+2024-12-16,2024-12-16,"Recibo Vodafone Notprovided Nº Recibo 0049 5292 755 Bblgnqh Ref. Mandato 9902113124, De",-32.2,2989.85,2989.85,OK
+2024-12-12,2024-12-12,Transferencia A Favor De Comunidad Miguel Mihura 2-4 Concepto: Miguel Mihura 2 - Escalera 3 - 1a,-203.0,3022.05,3022.05,OK
+2024-12-10,2024-12-10,"Recibo Sirinx S.l. Dic24/alex Escobar Holgado Sensib.78,00 Nº Recibo 0049 5292 755 Bblggbq Ref. Mandato 70885181d, De",-78.0,3225.05,3225.05,OK
+2024-12-09,2024-12-09,"Recibo Aramark Servicios De Catering Nº Recibo 0049 5292 755 Bblgfbh Ref. Mandato 367773, De",-89.28,3303.05,3303.05,OK
+2024-12-05,2024-12-05,"Recibo Enjoy Wellness Salamanca Nº Recibo 0049 5292 755 Bblfyvk Ref. Mandato Rumen23241698502, De",-54.49,3392.33,3392.33,OK
+2024-12-04,2024-12-04,"Transferencia De Escobar Ramirez Maria Isabel, Concepto Gastos Diciembre.",1000.0,3446.82,3446.82,OK
+2024-12-04,2024-12-04,"Recibo Prointal S.l Remesa Abonos Y Cursos Octubre 2024 Recibo: 411090/01/oct Renovacion Actividad Pilx17:15ga25 (ga-pre. Inicia. L-x 17:15 2024/25)-40,28 Nº Recibo 0049 5292 755 Bblfvsc Ref. Mandato 00000613015292787770161320000492210, De",-40.28,2446.82,2446.82,OK
+2024-12-02,2024-12-02,"Transferencia De Eduardo Warein Holgado Lage, Concepto Hipoteca.",1000.0,2487.1,2487.1,OK
+2024-12-02,2024-12-02,"Recibo Repsol, S.l.u.-repsol Comercializadora D Nº Recibo 0049 5292 755 Bblfgff Ref. Mandato 002402866318, De",-44.92,1487.1,1487.1,OK
+2024-12-02,2024-12-02,Liquidacion De Las Tarjetas De Credito Del Contrato 0049 5292 502 1915579,-437.01,1532.02,1532.02,OK
+2024-12-02,2024-11-30,Liquidacion Periodica Prestamo 0049 5292 103 0607630,-501.6,1969.03,1969.03,OK
+2024-12-02,2024-11-29,Reintegro Contra Cuenta En Atm 004955580000 El 29/11/2024 A Las 20:51. .pan: 5415411632332836.,-150.0,2470.63,2470.63,OK
+2024-11-15,2024-11-15,"Recibo Vodafone Factura: Lowi.es:/ci00000073448422/ Nº Recibo 0049 5292 755 Bbldjcd Ref. Mandato 9902113124, De",-31.9,2620.63,2620.63,OK
+2024-11-12,2024-11-12,Transferencia A Favor De Comunidad Miguel Mihura 2-4 Concepto: Miguel Mihura 2 - Escalera 3 - 1a,-203.0,2652.53,2652.53,OK
+2024-11-12,2024-11-12,"Recibo Sirinx S.l. Nov24/alex Escobar Holgado Sensib.78,00 Nº Recibo 0049 5292 755 Bbldcwk Ref. Mandato 70885181d, De",-78.0,2855.53,2855.53,OK
+2024-11-11,2024-11-11,"Recibo Aramark Servicios De Catering Nº Recibo 0049 5292 755 Bbldcjb Ref. Mandato 367773, De",-109.12,2933.53,2933.53,OK
+2024-11-07,2024-11-07,Reintegro Contra Cuenta En Atm 004952920000 El 07/11/2024 A Las 18:05. .pan: 5415411632332836.,-150.0,3042.65,3042.65,OK
+2024-11-05,2024-11-05,"Recibo Enjoy Wellness Salamanca Nº Recibo 0049 5292 755 Bblcpjh Ref. Mandato Rumen23241698502, De",-54.49,3192.65,3192.65,OK
+2024-11-04,2024-11-04,"Transferencia De Escobar Ramirez Maria Isabel, Concepto Gastos Noviembre 2024.",1000.0,3247.14,3247.14,OK
+2024-11-04,2024-11-01,"Transferencia De Eduardo Warein Holgado Lage, Concepto Hipoteca.",1000.0,2247.14,2247.14,OK
+2024-11-04,2024-11-04,Liquidacion De Las Tarjetas De Credito Del Contrato 0049 5292 502 1915579,-625.96,1247.14,1247.14,OK
+2024-10-31,2024-10-31,Traspaso: Octubre Precipitado,-1000.0,1873.1,1873.1,OK
+2024-10-31,2024-10-31,"Transferencia De Escobar Ramirez Maria Isabel, Concepto Gastos Mes.",1000.0,2873.1,2873.1,OK
+2024-10-31,2024-10-31,Liquidacion Periodica Prestamo 0049 5292 103 0607630,-501.6,1873.1,1873.1,OK
+2024-10-31,2024-10-31,Recibo Excmo. Ayuntamiento De Salamanca Nº Recibo 0049 5292 755 Bblbpln Ref. Mandato 230010331721,-12.31,2374.7,2374.7,OK
+2024-10-31,2024-10-31,Recibo Excmo. Ayuntamiento De Salamanca Nº Recibo 0049 5292 755 Bblbpll Ref. Mandato 230010331723,-164.41,2387.01,2387.01,OK
+2024-10-30,2024-10-30,"Recibo Aramark Servicios De Catering Nº Recibo 0049 5292 755 Bblbydd Ref. Mandato 367773, De",-64.48,2551.42,2551.42,OK
+2024-10-30,2024-10-30,"Recibo Repsol, S.l.u.-repsol Comercializadora D Nº Recibo 0049 5292 755 Bblbvgp Ref. Mandato 002402866318, De",-36.19,2615.9,2615.9,OK
+2024-10-16,2024-10-16,"Recibo Sirinx S.l. Oct24/alex Escobar Holgado Sensib.78,00 Nº Recibo 0049 5292 755 Bbkzvkf Ref. Mandato 70885181d, De",-78.0,2652.09,2652.09,OK
+2024-10-15,2024-10-15,"Recibo Vodafone Notprovided Nº Recibo 0049 5292 755 Bbkzsyv Ref. Mandato 9902113124, De",-32.4,2730.09,2730.09,OK
+2024-10-11,2024-10-11,Transferencia A Favor De Comunidad Miguel Mihura 2-4 Concepto: Miguel Mihura 2 - Escalera 3 - 1a,-203.0,2762.49,2762.49,OK
+2024-10-07,2024-10-07,Recibo Enjoy Wellness Salamanca Nº Recibo 0049 5292 755 Bbkzgzb Ref. Mandato Rumen23241698502,-54.49,2965.49,2965.49,OK
+2024-10-03,2024-10-03,"Recibo Repsol Electricidad Y Gas Nº Recibo 0049 5292 755 Bbkyysk Ref. Mandato 002402866318, De",-45.31,3019.98,3019.98,OK
+2024-10-03,2024-10-03,"Transferencia De Escobar Ramirez Maria Isabel, Concepto Gastos Mes.",1000.0,3065.29,3065.29,OK
+2024-10-01,2024-10-01,"Transferencia De Eduardo Warein Holgado Lage, Concepto Hipoteca.",1000.0,2065.29,2065.29,OK
+2024-10-01,2024-10-01,Liquidacion De Las Tarjetas De Credito Del Contrato 0049 5292 502 1915579,-605.83,1065.29,1065.29,OK
+2024-10-01,2024-09-30,Liquidacion Periodica Prestamo 0049 5292 103 0607630,-501.6,1671.12,1671.12,OK
+2024-10-01,2024-10-01,"Recibo Prointal S.l Remesa Cursos Septiembre 2024 Recibo: 407562/23/sep Renovacion Actividad Pilx17:15ga25 (ga-pre. Inicia. L-x 17:15 2024/25)-9,26/matricula Cu Nº Recibo 0049 5292 755 Bbkypsb Ref. Mandato 00000613015292787770161320000492210, De",-12.45,2172.72,2172.72,OK
+2024-09-30,2024-09-28,Reintegro Contra Cuenta En Atm 004952920000 El 28/09/2024 A Las 12:26. .pan: 5415411632332836.,-140.0,2185.17,2185.17,OK
+2024-09-19,2024-09-19,"Recibo Sirinx S.l. Sep24/alex Escobar Holgado Sensib.78,00 Nº Recibo 0049 5292 755 Bbkxnfm Ref. Mandato 70885181d, De",-78.0,2325.17,2325.17,OK
+2024-09-16,2024-09-16,"Recibo Vodafone Notprovided Nº Recibo 0049 5292 755 Bbkxjwd Ref. Mandato 9902113124, De",-32.1,2403.17,2403.17,OK
+2024-09-16,2024-09-13,Bizum A Favor De Luis Peralta De Arriba Concepto: Empanadas De Pie,-15.0,2435.27,2435.27,OK
+2024-09-12,2024-09-12,Transferencia A Favor De Punto Curioso Concepto: Alex Escobar,-50.0,2450.27,2450.27,OK
+2024-09-12,2024-09-12,Transferencia A Favor De Comunidad Miguel Mihura 2-4 Concepto: Miguel Mihura 2 - Escalera 3 - 1a,-203.0,2500.27,2500.27,OK
+2024-09-05,2024-09-05,"Recibo Enjoy Wellness Salamanca Nº Recibo 0049 5292 755 Bbkwwvy Ref. Mandato Rumen23241698502, De",-54.49,2703.27,2703.27,OK
+2024-09-04,2024-09-04,"Recibo Repsol, S.l.u. Repsol 4302867041 Nº Recibo 0049 5292 755 Bbkwrxt Ref. Mandato 002402866318, De",-44.4,2757.76,2757.76,OK
+2024-09-03,2024-09-03,"Transferencia De Escobar Ramirez Maria Isabel, Concepto Gastos Mes.",1000.0,2802.16,2802.16,OK
+2024-09-02,2024-09-02,"Transferencia De Eduardo Warein Holgado Lage, Concepto Hipoteca.",1000.0,1802.16,1802.16,OK
+2024-09-02,2024-09-02,Liquidacion De Las Tarjetas De Credito Del Contrato 0049 5292 502 1915579,-518.73,802.16,802.16,OK
+2024-09-02,2024-08-31,Liquidacion Periodica Prestamo 0049 5292 103 0607630,-501.6,1320.89,1320.89,OK
+2024-08-30,2024-08-29,Reintegro Contra Cuenta En Atm 004952900010 El 29/08/2024 A Las 20:53. .pan: 5415411632332836.,-220.0,1822.49,1822.49,OK
+2024-08-13,2024-08-13,"Recibo Vodafone Notprovided Nº Recibo 0049 5292 755 Bbktxqp Ref. Mandato 9902113124, De",-32.0,2042.49,2042.49,OK
+2024-08-12,2024-08-12,Transferencia A Favor De Comunidad Miguel Mihura 2-4 Concepto: Miguel Mihura 2 - Escalera 3 - 1a,-203.0,2074.49,2074.49,OK
+2024-08-05,2024-08-05,"Recibo Repsol, S.l.u. Repsol 4302867041 Nº Recibo 0049 5292 755 Bbktklx Ref. Mandato 002402866318, De",-47.16,2277.49,2277.49,OK
+2024-08-05,2024-08-05,"Recibo Enjoy Wellness Salamanca Nº Recibo 0049 5292 755 Bbktjvd Ref. Mandato Rumen23241698502, De",-49.99,2324.65,2324.65,OK
+2024-08-02,2024-08-02,"Transferencia De Escobar Ramirez Maria Isabel, Concepto Gastos Mes.",1000.0,2374.64,2374.64,OK
+2024-08-01,2024-08-01,"Transferencia De Eduardo Warein Holgado Lage, Concepto Hipoteca.",1000.0,1374.64,1374.64,OK
+2024-08-01,2024-08-01,Liquidacion De Las Tarjetas De Credito Del Contrato 0049 5292 502 1915579,-483.87,374.64,374.64,OK
+2024-07-31,2024-07-31,Liquidacion Periodica Prestamo 0049 5292 103 0607630,-501.6,858.51,858.51,OK
+2024-07-29,2024-07-27,Reintegro Contra Cuenta En Atm 004928100080 El 27/07/2024 A Las 19:46. .pan: 5415411632332836.,-130.0,1360.11,1360.11,OK
+2024-07-23,2024-07-23,Traspaso: Devolucion Reintegro,-200.0,1490.11,1490.11,OK
+2024-07-15,2024-07-15,"Recibo Vodafone Factura: Lowi.es:/ci00000069157632/ Nº Recibo 0049 5292 755 Bbkrwss Ref. Mandato 9902113124, De",-31.9,1690.11,1690.11,OK
+2024-07-12,2024-07-12,Transferencia A Favor De Comunidad Miguel Mihura 2-4 Concepto: Miguel Mihura 2 - Escalera 3 - 1a,-203.0,1722.01,1722.01,OK
+2024-07-11,2024-07-11,Reintegro Contra Cuenta En Atm 004901190030 El 11/07/2024 A Las 13:19. .pan: 5415411632332836.,-150.0,1925.01,1925.01,OK
+2024-07-11,2024-07-11,"Recibo Enjoy Wellness Salamanca Nº Recibo 0049 5292 755 Bbkrvbt Ref. Mandato Rumen23241698502, De",-49.99,2075.01,2075.01,OK
+2024-07-11,2024-07-11,"Recibo Eulen Servicios Sociosanitarios, S.a. .. Nº Recibo 0049 5292 755 Bbkrrcb Ref. Mandato 143615/0001/00001, De",-116.96,2125.0,2125.0,OK
+2024-07-03,2024-07-03,"Transferencia De Escobar Ramirez Maria Isabel, Concepto Gastos Mes.",1000.0,2241.96,2241.96,OK
+2024-07-03,2024-07-03,"Recibo Repsol, S.l.u. Repsol 4302867041 Nº Recibo 0049 5292 755 Bbkrdzk Ref. Mandato 002402866318, De",-44.69,1241.96,1241.96,OK
+2024-07-02,2024-06-30,Liquidacion Periodica Prestamo 0049 5292 103 0607630,-501.6,1286.65,1286.65,OK
+2024-07-01,2024-07-01,Liquidacion De Las Tarjetas De Credito Del Contrato 0049 5292 502 1915579,-474.33,1788.25,1788.25,OK
+2024-06-28,2024-06-28,Transferencia A Favor De Ampa San Mateo Concepto: Warein Holgado,-20.0,2262.58,2262.58,OK
+2024-06-27,2024-06-27,"Transferencia De Eduardo Warein Holgado Lage, Concepto Hipoteca Julio.",1000.0,2282.58,2282.58,OK
+2024-06-17,2024-06-17,"Recibo Vodafone Notprovided Nº Recibo 0049 5292 755 Bbkpqrw Ref. Mandato 9902113124, De",-32.85,1282.58,1282.58,OK
+2024-06-17,2024-06-17,"Recibo Mutua Madrilena Automovilista Seguros Nº Recibo 0049 5292 755 Bbkpklt Ref. Mandato 01010010162335, De",-417.66,1315.43,1315.43,OK
+2024-06-12,2024-06-12,Transferencia A Favor De Comunidad Miguel Mihura 2-4 Concepto: Miguel Mihura 2 - Escalera 3 - 1a,-203.0,1733.09,1733.09,OK
+2024-06-12,2024-06-12,"Recibo Eulen Servicios Sociosanitarios, S.a. .. Nº Recibo 0049 5292 755 Bbkplyd Ref. Mandato 143615/0001/00001, De",-116.96,1936.09,1936.09,OK
+2024-06-10,2024-06-10,Transferencia A Favor De Piscinas Comunidad Mediodia Concepto: Derrama 2024 - Carnet 116,-90.0,2053.05,2053.05,OK
+2024-06-05,2024-06-05,"Recibo Enjoy Wellness Salamanca Nº Recibo 0049 5292 755 Bbknxqf Ref. Mandato Rumen23241698502, De",-49.99,2143.05,2143.05,OK
+2024-06-05,2024-06-05,"Recibo Banco Cetelem, S.a. Recibo Emitido Por Banco Cetelem S.a. Cetelem Junio Nº Recibo 0049 5292 755 Bbkmrtp Ref. Mandato Es46000a7865034840036651632401, De",-186.21,2193.04,2193.04,OK
+2024-06-04,2024-06-04,"Recibo Santander Vida Poliza:218200019945-000000-seg Cap Prot Nº Recibo 0049 5292 755 Bbknwzz Ref. Mandato 2182a001c338, De",-178.68,2379.25,2379.25,OK
+2024-06-04,2024-06-04,"Recibo Repsol, S.l.u. Repsol 4302867041 Nº Recibo 0049 5292 755 Bbknvjb Ref. Mandato 002402866318, De",-48.53,2557.93,2557.93,OK
+2024-06-04,2024-06-04,"Recibo Santander Generales Mi Hogar Santander:051492715852 Periodo:03-jun-24 03-jun-25 Prima Neta:314,20eur Recargos Ccs:10,27eur Ips:25,13eur Nº Recibo 0049 5292 755 Bbknsly Ref. Mandato 00495292007346800300001, De Not Provided",-349.6,2606.46,2606.46,OK
+2024-06-03,2024-06-03,"Transferencia De Escobar Ramirez Maria Isabel, Concepto Gastos Mes.",1000.0,2956.06,2956.06,OK
+2024-06-03,2024-06-03,Transferencia A Favor De Piscinas Comunidad Mediodia Concepto: Piscina Verano 2024 Carnet 116 Warein Holgado,-160.0,1956.06,1956.06,OK
+2024-06-03,2024-06-03,Liquidacion De Las Tarjetas De Credito Del Contrato 0049 5292 502 1915579,-166.95,2116.06,2116.06,OK
+2024-05-31,2024-05-31,"Transferencia De Santander Seguros Y Reaseguros Compania Asegurador, Concepto Devolucion Anulacion Seguro Num.",5.1,2283.01,2283.01,OK
+2024-05-31,2024-05-31,Liquidacion Periodica Prestamo 0049 5292 103 0607630,-501.6,2277.91,2277.91,OK
+2024-05-31,2024-05-31,"Recibo Excmo. Ayuntamiento De Salamanca Nº Recibo 0049 5292 755 Bbkmnxq Ref. Mandato 230010331723, De",-164.41,2779.51,2779.51,OK
+2024-05-31,2024-05-31,"Recibo Excmo. Ayuntamiento De Salamanca Nº Recibo 0049 5292 755 Bbkmnxp Ref. Mandato 230010331721, De",-12.31,2943.92,2943.92,OK
+2024-05-30,2024-05-30,"Transferencia De Eduardo Warein Holgado Lage, Concepto Hipoteca Junio.",1000.0,2956.23,2956.23,OK
+2024-05-30,2024-05-30,Cancelacion Anticipada Prestamo 0608223 143,-2274.41,1956.23,1956.23,OK
+2024-05-30,2024-05-30,"Intereses, Comisiones Por Operaciones De Prestamos",-32.69,4230.64,4230.64,OK
+2024-05-30,2024-05-30,"Transferencia De Eduardo Warein Holgado Lage, Concepto Amortizacion Seguro.",2000.0,4263.33,4263.33,OK
+2024-05-17,2024-05-17,"Transferencia De Devoluciones Tributarias, Agencia Estatal De Admin, Concepto Aeat Apl:solicitud Deduccion Maternidad 24mod:140inf:escobar Ho-04-2024 Exp:2024dev14059450155j Aeat.",100.0,2263.33,2263.33,OK
+2024-05-17,2024-05-17,"Recibo Vodafone Factura: Lowi.es:/ci00000067014728/ Nº Recibo 0049 5292 755 Bbklwnp Ref. Mandato 9902113124, De",-31.9,2163.33,2163.33,OK
+2024-05-14,2024-05-14,Transferencia A Favor De Comunidad Miguel Mihura 2-4 Concepto: Miguel Mihura 2 - Escalera 3 - 1a,-203.0,2195.23,2195.23,OK
+2024-05-13,2024-05-13,"Recibo Eulen Servicios Sociosanitarios, S.a. .. Nº Recibo 0049 5292 755 Bbklqkv Ref. Mandato 143615/0001/00001, De",-116.96,2398.23,2398.23,OK
+2024-05-13,2024-05-13,"Recibo Eulen Servicios Sociosanitarios, S.a. .. Nº Recibo 0049 5292 755 Bbklqkt Ref. Mandato 143615/0001/00001, De",-7.63,2515.19,2515.19,OK
+2024-05-10,2024-05-10,"Recibo Eulen Servicios Sociosanitarios, S.a. .. Nº Recibo 0049 5292 755 Bbklqkx Ref. Mandato 143615/0001/00001, De",-116.96,2522.82,2522.82,OK
+2024-05-10,2024-05-10,"Recibo Eulen Servicios Sociosanitarios, S.a. .. Nº Recibo 0049 5292 755 Bbklqkw Ref. Mandato 143615/0001/00001, De",-7.63,2639.78,2639.78,OK
+2024-05-10,2024-05-10,Transferencia A Favor De Warein Holgado Concepto: Para Transferencia Mj 2024,-1000.0,2647.41,2647.41,OK
+2024-05-06,2024-05-06,"Recibo Repsol, S.l.u. Repsol 4302867041 Nº Recibo 0049 5292 755 Bbkldfp Ref. Mandato 002402866318, De",-49.84,3647.41,3647.41,OK
+2024-05-06,2024-05-06,"Recibo Enjoy Wellness Salamanca Nº Recibo 0049 5292 755 Bbklclt Ref. Mandato Rumen23241698502, De",-49.99,3697.25,3697.25,OK
+2024-05-06,2024-05-06,"Recibo Banco Cetelem, S.a. Recibo Emitido Por Banco Cetelem S.a. Cetelem Mayo Nº Recibo 0049 5292 755 Bbkkgcs Ref. Mandato Es46000a7865034840036651632401, De",-186.26,3747.24,3747.24,OK
+2024-05-03,2024-05-03,"Transferencia De Escobar Ramirez Maria Isabel, Concepto Gastos Mes.",1000.0,3933.5,3933.5,OK
+2024-05-02,2024-05-02,"Transferencia De Eduardo Warein Holgado Lage, Concepto Hipoteca Mayo 2024.",1000.0,2933.5,2933.5,OK
+2024-05-02,2024-05-02,Liquidacion De Las Tarjetas De Credito Del Contrato 0049 5292 502 1915579,-530.4,1933.5,1933.5,OK
+2024-04-30,2024-04-30,Liquidacion Periodica Prestamo 0049 5292 143 0608223,-163.8,2463.9,2463.9,OK
+2024-04-30,2024-04-30,Liquidacion Periodica Prestamo 0049 5292 103 0607630,-501.6,2627.7,2627.7,OK
+2024-04-23,2024-04-23,Bizum A Favor De Silvia Galan Hernandez Concepto: Tercer Trimestre Isabel Y Alex,-120.0,3129.3,3129.3,OK
+2024-04-18,2024-04-18,"Transferencia De Devoluciones Tributarias, Agencia Estatal De Admin, Concepto Aeat Apl:solicitud Deduccion Maternidad 24mod:140inf:escobar Ho-03-2024 Exp:2024dev14059450126a Aeat.",100.0,3249.3,3249.3,OK
+2024-04-17,2024-04-17,"Recibo Vodafone Factura: Lowi.es:/ci00000065940517/ Nº Recibo 0049 5292 755 Bbkjpdb Ref. Mandato 9902113124, De",-31.9,3149.3,3149.3,OK
+2024-04-15,2024-04-15,"Transferencia De Santander Seguros Y Reaseguros Compania Asegurador, Concepto Devolucion Anulacion Seguro Num 217600027181.",11.04,3181.2,3181.2,OK
+2024-04-15,2024-04-15,"Transferencia De Escobar Ramirez Maria Isabel, Concepto Hacienda Isa.",1250.0,3170.16,3170.16,OK
+2024-04-12,2024-04-12,"Intereses, Comisiones Por Operaciones De Prestamos",-12.49,1920.16,1920.16,OK
+2024-04-12,2024-04-12,Cancelacion Anticipada Prestamo 0608222 143,-1021.66,1932.65,1932.65,OK
+2024-04-05,2024-04-05,Transferencia A Favor De Pedro Hermosa Concepto: 311 Miguel Mihura 2 - Escalera 3 - 1a,-203.0,2954.31,2954.31,OK
+2024-04-05,2024-04-05,"Recibo Enjoy Wellness Salamanca Nº Recibo 0049 5292 755 Bbkhxvh Ref. Mandato Rumen23241698502, De",-49.99,3157.31,3157.31,OK
+2024-04-05,2024-04-05,"Recibo Banco Cetelem, S.a. Recibo Emitido Por Banco Cetelem S.a. Cetelem Abril Nº Recibo 0049 5292 755 Bbkgwwl Ref. Mandato Es46000a7865034840036651632401, De",-186.26,3207.3,3207.3,OK
+2024-04-03,2024-04-03,Transferencia A Favor De Punto Curioso Concepto: Alex Escobar - Tercer Trimestre,-40.0,3393.56,3393.56,OK
+2024-04-03,2024-04-03,"Transferencia De Escobar Ramirez Maria Isabel, Concepto Gastos Mes.",1000.0,3433.56,3433.56,OK
+2024-04-03,2024-04-03,"Recibo Repsol, S.l.u. Repsol 4302867041 Nº Recibo 0049 5292 755 Bbkhmvd Ref. Mandato 002402866318, De",-46.39,2433.56,2433.56,OK
+2024-04-02,2024-04-02,"Transferencia De Eduardo Warein Holgado Lage, Concepto Hipoteca Abril.",1000.0,2479.95,2479.95,OK
+2024-04-02,2024-03-31,Liquidacion Periodica Prestamo 0049 5292 143 0608223,-163.8,1479.95,1479.95,OK
+2024-04-02,2024-03-31,Liquidacion Periodica Prestamo 0049 5292 143 0608222,-72.56,1643.75,1643.75,OK
+2024-04-02,2024-03-31,Liquidacion Periodica Prestamo 0049 5292 103 0607630,-501.6,1716.31,1716.31,OK
+2024-04-01,2024-04-01,Liquidacion De Las Tarjetas De Credito Del Contrato 0049 5292 502 1915579,-501.34,2217.91,2217.91,OK
+2024-03-28,2024-03-28,"Compra Internet En El Corte Ingles, Madrid, Tarj. :*716264",-86.0,2719.25,2719.25,OK
+2024-03-27,2024-03-27,"Intereses, Comisiones Por Operaciones De Prestamos",-5.0,2805.25,2805.25,OK
+2024-03-27,2024-03-27,Amortizacion Anticipada Prestamo 0049 5292 143 0608222,-500.0,2810.25,2810.25,OK
+2024-03-27,2024-03-27,"Intereses, Comisiones Por Operaciones De Prestamos",-5.0,3310.25,3310.25,OK
+2024-03-27,2024-03-27,Amortizacion Anticipada Prestamo 0049 5292 143 0608223,-500.0,3315.25,3315.25,OK
+2024-03-27,2024-03-27,"Transferencia De Eduardo Warein Holgado Lage, Concepto Amortizacion Marzo.",1000.0,3815.25,3815.25,OK
+2024-03-27,2024-03-27,Traspaso: Reparación Y Limpieza,-250.0,2815.25,2815.25,OK
+2024-03-15,2024-03-15,"Transferencia De Devoluciones Tributarias, Agencia Estatal De Admin, Concepto Aeat Apl:solicitud Deduccion Maternidad 24mod:140inf:escobar Ho-02-2024 Exp:2024dev14059450082v Aeat.",100.0,3065.25,3065.25,OK
+2024-03-15,2024-03-15,"Recibo Vodafone Notprovided Nº Recibo 0049 5292 755 Bbkggvb Ref. Mandato 9902113124, De",-32.0,2965.25,2965.25,OK
+2024-03-12,2024-03-12,"Recibo Eulen Servicios Sociosanitarios S.a. Nº Recibo 0049 5292 755 Bbkgczm Ref. Mandato 143615/0001/00001, De",-7.63,2997.25,2997.25,OK
+2024-03-12,2024-03-12,"Recibo Eulen Servicios Sociosanitarios S.a. Nº Recibo 0049 5292 755 Bbkgczl Ref. Mandato 143615/0001/00001, De",-116.96,3004.88,3004.88,OK
+2024-03-06,2024-03-06,Transferencia A Favor De Pedro Hermosa Concepto: 311 Miguel Mihura 2 - Escalera 3 - 1a,-203.0,3121.84,3121.84,OK
+2024-03-05,2024-03-05,"Recibo Repsol, S.l.u. Repsol 4302867041 Nº Recibo 0049 5292 755 Bbkfpmp Ref. Mandato 002402866318, De",-44.8,3324.84,3324.84,OK
+2024-03-05,2024-03-05,"Recibo Banco Cetelem, S.a. Recibo Emitido Por Banco Cetelem S.a. Cetelem Marzo Nº Recibo 0049 5292 755 Bbkdsbx Ref. Mandato Es46000a7865034840036651632401, De",-186.26,3369.64,3369.64,OK
+2024-03-01,2024-03-01,"Transferencia De Escobar Ramirez Maria Isabel, Concepto Gastos Marzo 2024.",1000.0,3555.9,3555.9,OK
+2024-03-01,2024-03-01,Amortizacion Anticipada Prestamo 0049 5292 143 0608223,-500.0,2555.9,2555.9,OK
+2024-03-01,2024-03-01,"Intereses, Comisiones Por Operaciones De Prestamos",-5.0,3055.9,3055.9,OK
+2024-03-01,2024-03-01,"Transferencia De Eduardo Warein Holgado Lage, Concepto Amortizacion Credito.",500.0,3060.9,3060.9,OK
+2024-03-01,2024-03-01,"Transferencia De Eduardo Warein Holgado Lage, Concepto Hipoteca Marzo.",1000.0,2560.9,2560.9,OK
+2024-03-01,2024-03-01,Liquidacion De Las Tarjetas De Credito Del Contrato 0049 5292 502 1915579,-315.91,1560.9,1560.9,OK
+2024-02-29,2024-02-29,Liquidacion Periodica Prestamo 0049 5292 143 0608223,-163.8,1876.81,1876.81,OK
+2024-02-29,2024-02-29,Liquidacion Periodica Prestamo 0049 5292 143 0608222,-72.56,2040.61,2040.61,OK
+2024-02-29,2024-02-29,Liquidacion Periodica Prestamo 0049 5292 103 0607630,-501.6,2113.17,2113.17,OK
+2024-02-26,2024-02-26,Transferencia A Favor De Mari Paz López Viñaras Concepto: Cañón De Río Lobos I Del 25-28 De Julio,-100.0,2614.77,2614.77,OK
+2024-02-21,2024-02-21,"Transferencia De Devoluciones Tributarias, Agencia Estatal De Admin, Concepto Aeat Apl:solicitud Deduccion Maternidad 24mod:140inf:escobar Ho-01-2024 Exp:2024dev14059450036g Aeat.",100.0,2714.77,2714.77,OK
+2024-02-16,2024-02-16,"Recibo Vodafone Factura: Lowi.es:/ci00000063781572/ Nº Recibo 0049 5292 755 Bbkcvjy Ref. Mandato 9902113124, De",-31.9,2614.77,2614.77,OK
+2024-02-12,2024-02-12,"Recibo Eulen Servicios Sociosanitarios S.a. Nº Recibo 0049 5292 755 Bbkcpcz Ref. Mandato 143615/0001/00001, De",-7.63,2646.67,2646.67,OK
+2024-02-12,2024-02-12,"Recibo Eulen Servicios Sociosanitarios S.a. Nº Recibo 0049 5292 755 Bbkcnws Ref. Mandato 143615/0001/00001, De",-116.96,2654.3,2654.3,OK
+2024-02-06,2024-02-06,Transferencia A Favor De Pedro Hermosa Concepto: 311 Miguel Mihura 2 - Escalera 3 - 1a,-203.0,2771.26,2771.26,OK
+2024-02-05,2024-02-05,"Recibo Repsol, S.l.u. Repsol 4302867041 Nº Recibo 0049 5292 755 Bbkbzsn Ref. Mandato 002402866318, De",-52.64,2974.26,2974.26,OK
+2024-02-05,2024-02-05,"Recibo Banco Cetelem, S.a. Recibo Emitido Por Banco Cetelem S.a. Cetelem Febrero Nº Recibo 0049 5292 755 Bbjzzsb Ref. Mandato Es46000a7865034840036651632401, De",-186.26,3026.9,3026.9,OK
+2024-02-01,2024-02-01,"Transferencia De Escobar Ramirez Maria Isabel, Concepto Gastos Febrero 2024.",1000.0,3213.16,3213.16,OK
+2024-02-01,2024-02-01,"Transferencia De Eduardo Warein Holgado Lage, Concepto Hipoteca Febrero.",1000.0,2213.16,2213.16,OK
+2024-02-01,2024-02-01,Liquidacion De Las Tarjetas De Credito Del Contrato 0049 5292 502 1915579,-204.53,1213.16,1213.16,OK
+2024-01-31,2024-01-31,Liquidacion Periodica Prestamo 0049 5292 143 0608223,-163.8,1417.69,1417.69,OK
+2024-01-31,2024-01-31,Liquidacion Periodica Prestamo 0049 5292 143 0608222,-72.56,1581.49,1581.49,OK
+2024-01-31,2024-01-31,Liquidacion Periodica Prestamo 0049 5292 103 0607630,-501.6,1654.05,1654.05,OK
+2024-01-30,2024-01-30,Amortizacion Anticipada Prestamo 0049 5292 143 0608223,-1000.0,2155.65,2155.65,OK
+2024-01-30,2024-01-30,"Intereses, Comisiones Por Operaciones De Prestamos",-10.0,3155.65,3155.65,OK
+2024-01-30,2024-01-30,"Transferencia De Eduardo Warein Holgado Lage, Concepto Amortizacion.",1000.0,3165.65,3165.65,OK
+2024-01-25,2024-01-25,"Recibo Eulen Servicios Sociosanitarios S.a. Nº Recibo 0049 5292 755 Bbjzyls Ref. Mandato 143615/0001/00001, De",-7.63,2165.65,2165.65,OK
+2024-01-22,2024-01-22,Amortizacion Anticipada Prestamo 0049 5292 143 0608223,-500.0,2173.28,2173.28,OK
+2024-01-22,2024-01-22,"Intereses, Comisiones Por Operaciones De Prestamos",-5.0,2673.28,2673.28,OK
+2024-01-22,2024-01-22,Amortizacion Anticipada Prestamo 0049 5292 143 0608222,-1000.0,2678.28,2678.28,OK
+2024-01-22,2024-01-22,"Intereses, Comisiones Por Operaciones De Prestamos",-10.0,3678.28,3678.28,OK
+2024-01-22,2024-01-22,"Transferencia De Eduardo Warein Holgado Lage, Concepto Reyes Abuelo.",1000.0,3688.28,3688.28,OK
+2024-01-22,2024-01-22,"Transferencia De Eduardo Warein Holgado Lage, Concepto Amortizacion.",500.0,2688.28,2688.28,OK
+2024-01-22,2024-01-22,Amortizacion Anticipada Prestamo 0049 5292 143 0608223,-500.0,2188.28,2188.28,OK
+2024-01-22,2024-01-22,"Intereses, Comisiones Por Operaciones De Prestamos",-5.0,2688.28,2688.28,OK
+2024-01-22,2024-01-22,Amortizacion Anticipada Prestamo 0049 5292 143 0608223,-1000.0,2693.28,2693.28,OK
+2024-01-22,2024-01-22,"Intereses, Comisiones Por Operaciones De Prestamos",-10.0,3693.28,3693.28,OK
+2024-01-18,2024-01-18,"Transferencia De A.e.a.t. Devoluciones Tributarias, Concepto Aeat Apl:solicitud Deduccion Maternidad 23mod:140inf:escobar Ho-12-2023 Exp:2023dev14059450505b Aeat.",100.0,3703.28,3703.28,OK
+2024-01-17,2024-01-17,"Recibo Vodafone Factura: Lowi.es:/ci00000062697306/ Nº Recibo 0049 5292 755 Bbjzqxy Ref. Mandato 9902113124, De",-31.9,3603.28,3603.28,OK
+2024-01-16,2024-01-16,"Recibo Eulen Servicios Sociosanitarios, S.a. Nº Recibo 0049 5292 755 Bbjzqkx Ref. Mandato 143615/0001/00001, De",-116.96,3635.18,3635.18,OK
+2024-01-12,2024-01-12,"Transferencia De Gerencia De Servicios Sociales De Castilla Y Leon, Concepto Concesion Bono Concilia 2023.",750.0,3752.14,3752.14,OK
+2024-01-05,2024-01-05,Transferencia A Favor De Pedro Hermosa Concepto: 311 Miguel Mihura 2 - Escalera 3 - 1a,-203.0,3002.14,3002.14,OK
+2024-01-05,2024-01-05,"Recibo Banco Cetelem, S.a. Recibo Emitido Por Banco Cetelem S.a. Cetelem Enero Nº Recibo 0049 5292 755 Bbjxwhk Ref. Mandato Es46000a7865034840036651632401, De",-186.26,3205.14,3205.14,OK
+2024-01-03,2023-12-31,Liquidacion Periodica Prestamo 0049 5292 103 0607630,-503.49,3391.4,3391.4,OK
+2024-01-03,2023-12-31,Liquidacion Periodica Prestamo 0049 5292 143 0608223,-163.8,3894.89,3894.89,OK
+2024-01-03,2023-12-31,Liquidacion Periodica Prestamo 0049 5292 143 0608222,-72.56,4058.69,4058.69,OK
+2024-01-03,2024-01-03,"Recibo Repsol, S.l.u. Nº Recibo 0049 5292 755 Bbjysfj Ref. Mandato 002402866318, De",-38.65,4131.25,4131.25,OK
+2024-01-03,2024-01-03,Transferencia A Favor De María Josefa Lage Santos Concepto: Dolares,-456.0,4169.9,4169.9,OK
+2024-01-02,2024-01-02,"Reintegro, Atm:00495292, Salamanca, Tarj. :*716264",-200.0,4625.9,4625.9,OK
+2024-01-02,2024-01-02,"Transferencia De Eduardo Warein Holgado Lage, Concepto Enero.",1100.0,4825.9,4825.9,OK
+2024-01-02,2024-01-02,"Transferencia De Escobar Ramirez Maria Isabel, Concepto Gastos Enero 2024.",1000.0,3725.9,3725.9,OK
+2024-01-02,2024-01-02,Liquidacion De Las Tarjetas De Credito Del Contrato 0049 5292 502 1915579,-1784.88,2725.9,2725.9,OK
+2023-12-26,2023-12-24,Bizum A Favor De Lizbel Rodriguez De Bracho Concepto: Pan De Jamón,-32.0,4510.78,4510.78,OK
+2023-12-22,2023-12-22,Amortizacion Anticipada Prestamo 0049 5292 143 0608223,-1000.0,4542.78,4542.78,OK
+2023-12-22,2023-12-22,"Intereses, Comisiones Por Operaciones De Prestamos",-10.0,5542.78,5542.78,OK
+2023-12-22,2023-12-22,"Transferencia De Eduardo Warein Holgado Lage, Concepto Prestamo Kia.",1000.0,5552.78,5552.78,OK
+2023-12-21,2023-12-21,Traspaso:,-500.0,4552.78,4552.78,OK
+2023-12-21,2023-12-21,"Transferencia De Maria Luisa Escobar Ramirez, Concepto Movimiento Ing.",1000.0,5052.78,5052.78,OK
+2023-12-21,2023-12-21,"Transferencia De A.e.a.t. Devoluciones Tributarias, Concepto Aeat Apl:solicitud Deduccion Maternidad 23mod:140inf:escobar Ho-11-2023 Exp:2023dev14059450459z Aeat.",100.0,4052.78,4052.78,OK
+2023-12-20,2023-12-20,Bizum A Favor De Lizbel Rodriguez De Bracho Concepto: Hallacas Isa,-65.0,3952.78,3952.78,OK
+2023-12-15,2023-12-15,"Recibo Vodafone Factura: Lowi.es:/ci00000061608179/ Nº Recibo 0049 5292 755 Bbjxjnr Ref. Mandato 9902113124, De",-31.9,4017.78,4017.78,OK
+2023-12-12,2023-12-12,"Recibo Eulen Servicios Sociosanitarios S.a. Nº Recibo 0049 5292 755 Bbjxdzf Ref. Mandato 143615/0001/00001, De",-116.96,4049.68,4049.68,OK
+2023-12-07,2023-12-07,"Recibo Repsol, S.l.u. Nº Recibo 0049 5292 755 Bbjwvpw Ref. Mandato 002402866318, De",-43.44,4166.64,4166.64,OK
+2023-12-05,2023-12-05,Transferencia A Favor De Pedro Hermosa Concepto: 311 Miguel Mihura 2 - Escalera 3 - 1a,-203.0,4210.08,4210.08,OK
+2023-12-05,2023-12-05,"Recibo Clequali S.l. Remesa Abonos Y Cursos Diciembre 2023 Recibo: 375226/01/dic Renovacion Actividad Mab24j16:00sj24 (sj-matronatacion B2-b3 J 16:00 2023/24)-32 Nº Recibo 0049 5292 755 Bbjwqrn Ref. Mandato 00000613015292787770161320000492210, De",-32.45,4413.08,4413.08,OK
+2023-12-05,2023-12-05,"Recibo Banco Cetelem, S.a. Recibo Emitido Por Banco Cetelem S.a. Cetelem Diciembr Nº Recibo 0049 5292 755 Bbjvwry Ref. Mandato Es46000a7865034840036651632401, De",-186.26,4445.53,4445.53,OK
+2023-12-04,2023-12-04,"Transferencia De Eduardo Warein Holgado Lage, Concepto Diciembre Vuelo.",600.0,4631.79,4631.79,OK
+2023-12-04,2023-12-04,"Transferencia De Escobar Ramirez Maria Isabel, Concepto Diciembre.",1600.0,4031.79,4031.79,OK
+2023-12-01,2023-12-01,"Transferencia De Eduardo Warein Holgado Lage, Concepto Diciembre.",1000.0,2431.79,2431.79,OK
+2023-12-01,2023-12-01,Liquidacion De Las Tarjetas De Credito Del Contrato 0049 5292 502 1915579,-506.81,1431.79,1431.79,OK
+2023-11-30,2023-11-30,Liquidacion Periodica Prestamo 0049 5292 143 0608223,-163.8,1938.6,1938.6,OK
+2023-11-30,2023-11-30,Liquidacion Periodica Prestamo 0049 5292 143 0608222,-72.56,2102.4,2102.4,OK
+2023-11-30,2023-11-30,Liquidacion Periodica Prestamo 0049 5292 103 0607630,-503.49,2174.96,2174.96,OK
+2023-11-27,2023-11-25,"Reintegro, Atm:00495292, Salamanca, Tarj. :*716264",-180.0,2678.45,2678.45,OK
+2023-11-20,2023-11-20,"Transferencia De A.e.a.t. Devoluciones Tributarias, Concepto Aeat Apl:solicitud Deduccion Maternidad 23mod:140inf:escobar Ho-10-2023 Exp:2023dev14059450416f Aeat.",100.0,2858.45,2858.45,OK
+2023-11-16,2023-11-16,"Recibo Vodafone Factura: Lowi.es:/ci00000060516524/ Nº Recibo 0049 5292 755 Bbjvfdd Ref. Mandato 9902113124, De",-31.9,2758.45,2758.45,OK
+2023-11-14,2023-11-14,"Recibo Eulen Servicios Sociosanitarios S.a. Nº Recibo 0049 5292 755 Bbjvcpq Ref. Mandato 143615/0001/00001, De",-116.96,2790.35,2790.35,OK
+2023-11-06,2023-11-06,Transferencia A Favor De Pedro Hermosa Concepto: 311 Miguel Mihura 2 - Escalera 3 - 1a,-203.0,2907.31,2907.31,OK
+2023-11-06,2023-11-06,"Recibo Banco Cetelem, S.a. Recibo Emitido Por Banco Cetelem S.a. Cetelem Noviembr Nº Recibo 0049 5292 755 Bbjsnps Ref. Mandato Es46000a7865034840036651632401, De",-186.26,3110.31,3110.31,OK
+2023-11-03,2023-11-03,"Recibo Repsol Electricidad Y Gas Nº Recibo 0049 5292 755 Bbjtlgn Ref. Mandato 002402866318, De",-48.46,3296.57,3296.57,OK
+2023-11-03,2023-11-03,"Recibo Clequali S.l. Remesa Abonos Y Cursos Noviembre 2023 Recibo: 371495/01/nov Renovacion Actividad Mab24j16:00sj24 (sj-matronatacion B2-b3 J 16:00 2023/24)-32 Nº Recibo 0049 5292 755 Bbjtjwc Ref. Mandato 00000613015292787770161320000492210, De",-32.45,3345.03,3345.03,OK
+2023-11-02,2023-11-02,"Transferencia De Eduardo Warein Holgado Lage, Concepto Noviembre.",1200.0,3377.48,3377.48,OK
+2023-11-02,2023-11-02,"Transferencia De Escobar Ramirez Maria Isabel, Concepto Gastos Noviembre 2023.",1250.0,2177.48,2177.48,OK
+2023-11-02,2023-11-02,Liquidacion De Las Tarjetas De Credito Del Contrato 0049 5292 502 1915579,-576.53,927.48,927.48,OK
+2023-10-31,2023-10-31,Liquidacion Periodica Prestamo 0049 5292 143 0608223,-163.8,1504.01,1504.01,OK
+2023-10-31,2023-10-31,Liquidacion Periodica Prestamo 0049 5292 143 0608222,-72.56,1667.81,1667.81,OK
+2023-10-31,2023-10-31,Liquidacion Periodica Prestamo 0049 5292 103 0607630,-503.49,1740.37,1740.37,OK
+2023-10-31,2023-10-31,"Recibo Excmo. Ayuntamiento De Salamanca Nº Recibo 0049 5292 755 Bbjslvx Ref. Mandato 230010331721, De",-12.31,2243.86,2243.86,OK
+2023-10-31,2023-10-31,"Recibo Excmo. Ayuntamiento De Salamanca Nº Recibo 0049 5292 755 Bbjslvv Ref. Mandato 230010331723, De",-164.41,2256.17,2256.17,OK
+2023-10-27,2023-10-27,"Recibo Eulen Servicios Sociosanitarios S.a. Nº Recibo 0049 5292 755 Bbjsqxl Ref. Mandato 143615/0001/00001, De",-116.96,2420.58,2420.58,OK
+2023-10-26,2023-10-26,Traspaso: Crema Isa,-145.0,2537.54,2537.54,OK
+2023-10-19,2023-10-19,"Transferencia De A.e.a.t. Devoluciones Tributarias, Concepto Aeat Apl:solicitud Deduccion Maternidad 23mod:140inf:escobar Ho-09-2023 Exp:2023dev14059450368c Aeat.",100.0,2682.54,2682.54,OK
+2023-10-17,2023-10-17,"Recibo Vodafone Notprovided Nº Recibo 0049 5292 755 Bbjrrxx Ref. Mandato 9902113124, De",-32.0,2582.54,2582.54,OK
+2023-10-16,2023-10-15,"Reintegro, Atm:00497471, Salamanca, Tarj. :*332836",-60.0,2614.54,2614.54,OK
+2023-10-10,2023-10-10,"Recibo Eulen Servicios Sociosanitarios, S.a. Nº Recibo 0049 5292 755 Bbjrlmd Ref. Mandato 143615/0001/00001, De",-116.96,2674.54,2674.54,OK
+2023-10-10,2023-10-10,Bizum A Favor De Maria Luisa Escobar Ramirez Concepto: Regalos Navidad,-36.0,2791.5,2791.5,OK
+2023-10-06,2023-10-06,Transferencia A Favor De Pedro Hermosa Concepto: 311 Miguel Mihura 2 - Escalera 3 - 1a,-203.0,2827.5,2827.5,OK
+2023-10-05,2023-10-05,"Recibo Banco Cetelem, S.a. Recibo Emitido Por Banco Cetelem S.a. Cetelem Octubre Nº Recibo 0049 5292 755 Bbjpstm Ref. Mandato Es46000a7865034840036651632401, De",-186.26,3030.5,3030.5,OK
+2023-10-04,2023-10-04,"Reintegro, Atm:00495290, Salamanca, Tarj. :*332836",-110.0,3216.76,3216.76,OK
+2023-10-03,2023-10-03,"Recibo Repsol, S.l.u. Repsol 4302867041 Nº Recibo 0049 5292 755 Bbjqwzr Ref. Mandato 002402866318, De",-40.52,3326.76,3326.76,OK
+2023-10-03,2023-10-03,"Recibo Clequali S.l. Remesa Abonos Y Cursos Octubre 2023 Recibo: 364124/01/oct Renovacion Actividad Mab24j16:00sj24 (sj-matronatacion B2-b3 J 16:00 2023/24)-32,4 Nº Recibo 0049 5292 755 Bbjqwpj Ref. Mandato 00000613015292787770161320000492210, De",-32.45,3367.28,3367.28,OK
+2023-10-03,2023-10-03,"Recibo Clequali S.l. Remesa Cursos Matronatacion Septiembre 2023 Recibo: 362788/venta Selectiva Matriculas Matronatacion San Jose-3,14/30/sep Renovacion Activida Nº Recibo 0049 5292 755 Bbjqvhr Ref. Mandato 00000613015292787770161320000492210, De",-9.63,3399.73,3399.73,OK
+2023-10-02,2023-10-02,"Transferencia De Eduardo Warein Holgado Lage, Concepto Octubre.",1000.0,3409.36,3409.36,OK
+2023-10-02,2023-10-02,"Transferencia De Escobar Ramirez Maria Isabel, Concepto Gastos Mes.",1150.0,2409.36,2409.36,OK
+2023-10-02,2023-10-02,Liquidacion De Las Tarjetas De Credito Del Contrato 0049 5292 502 1915579,-291.1,1259.36,1259.36,OK
+2023-10-02,2023-09-30,Liquidacion Periodica Prestamo 0049 5292 143 0608223,-163.8,1550.46,1550.46,OK
+2023-10-02,2023-09-30,Liquidacion Periodica Prestamo 0049 5292 143 0608222,-72.56,1714.26,1714.26,OK
+2023-10-02,2023-09-30,Liquidacion Periodica Prestamo 0049 5292 103 0607630,-503.49,1786.82,1786.82,OK
+2023-09-29,2023-09-29,Traspaso: Gym Isa,-150.0,2290.31,2290.31,OK
+2023-09-20,2023-09-20,"Transferencia De A.e.a.t. Devoluciones Tributarias, Concepto Aeat Apl:solicitud Deduccion Maternidad 23mod:140inf:escobar Ho-08-2023 Exp:2023dev14059450325j Aeat.",100.0,2440.31,2440.31,OK
+2023-09-15,2023-09-15,"Recibo Vodafone Factura: Lowi.es:/ci00000058315903/ Nº Recibo 0049 5292 755 Bbjpkbc Ref. Mandato 9902113124, De",-31.9,2340.31,2340.31,OK
+2023-09-14,2023-09-14,Traspaso: Vínculo Músical Alex,-75.0,2372.21,2372.21,OK
+2023-09-14,2023-09-14,Transferencia A Favor De Rebeca Martín Concepto: Bono Punto De Cuento_ Alex Escobar,-50.0,2447.21,2447.21,OK
+2023-09-06,2023-09-06,Transferencia A Favor De Pedro Hermosa Concepto: 311 Miguel Mihura 2 - Escalera 3 - 1a,-203.0,2497.21,2497.21,OK
+2023-09-06,2023-09-06,Traspaso:,-45.0,2700.21,2700.21,OK
+2023-09-05,2023-09-05,"Recibo Repsol, S.l.u. Repsol 4302867041 Nº Recibo 0049 5292 755 Bbjnvyg Ref. Mandato 002402866318, De",-38.31,2745.21,2745.21,OK
+2023-09-05,2023-09-05,"Recibo Banco Cetelem, S.a. Recibo Emitido Por Banco Cetelem S.a. Cetelem Septiemb Nº Recibo 0049 5292 755 Bbjmrpd Ref. Mandato Es46000a7865034840036651632401, De",-186.26,2783.52,2783.52,OK
+2023-09-01,2023-09-01,"Transferencia De Eduardo Warein Holgado Lage, Concepto Hipoteca Septiembre.",900.0,2969.78,2969.78,OK
+2023-09-01,2023-09-01,"Transferencia De Escobar Ramirez Maria Isabel, Concepto Gastos Mes De Septiembre 2023.",1100.0,2069.78,2069.78,OK
+2023-09-01,2023-09-01,Liquidacion De Las Tarjetas De Credito Del Contrato 0049 5292 502 1915579,-517.89,969.78,969.78,OK
+2023-08-31,2023-08-31,Liquidacion Periodica Prestamo 0049 5292 143 0608223,-163.8,1487.67,1487.67,OK
+2023-08-31,2023-08-31,Liquidacion Periodica Prestamo 0049 5292 143 0608222,-72.56,1651.47,1651.47,OK
+2023-08-31,2023-08-31,Liquidacion Periodica Prestamo 0049 5292 103 0607630,-503.49,1724.03,1724.03,OK
+2023-08-29,2023-08-29,"Reintegro, Atm:00495292, Salamanca, Tarj. :*716264",-200.0,2227.52,2227.52,OK
+2023-08-29,2023-08-29,Transferencia A Favor De Silvia Galán Hernández Concepto: Alex Escobar Holgado Matrícula 2023/2024,-25.0,2427.52,2427.52,OK
+2023-08-21,2023-08-21,"Transferencia De A.e.a.t. Devoluciones Tributarias, Concepto Aeat Apl:solicitud Deduccion Maternidad 23mod:140inf:escobar Ho-07-2023 Exp:2023dev14059450287c Aeat.",100.0,2452.52,2452.52,OK
+2023-08-16,2023-08-16,"Recibo Vodafone Notprovided Nº Recibo 0049 5292 755 Bbjmcmd Ref. Mandato 9902113124, De",-32.1,2352.52,2352.52,OK
+2023-08-16,2023-08-16,"Recibo Iberdrola Clientes, S.a.u Iberdrola Electricidad 0858917002 Salamanca, Cl Miguel Mihura 2,1 A Nº Recibo 0049 5292 755 Bbjlwmb Ref. Mandato 299033504000, De",-4.68,2384.62,2384.62,OK
+2023-08-11,2023-08-11,"Recibo Iberdrola Clientes, S.a.u Iberdrola Electricidad 0858917002 Salamanca, Cl Miguel Mihura 2,1 A Nº Recibo 0049 5292 755 Bbjlpbx Ref. Mandato 299033504000, De",-12.73,2389.3,2389.3,OK
+2023-08-04,2023-08-04,Transferencia A Favor De Pedro Hermosa Concepto: 311 Miguel Mihura 2 - Escalera 3 - 1a,-203.0,2402.03,2402.03,OK
+2023-08-02,2023-08-02,"Transferencia De Escobar Ramirez Maria Isabel, Concepto Agosto.",900.0,2605.03,2605.03,OK
+2023-08-01,2023-08-01,"Transferencia De Eduardo Warein Holgado Lage, Concepto Agosto.",700.0,1705.03,1705.03,OK
+2023-08-01,2023-08-01,"Recibo Repsol, S.l.u. Repsol 4301108953 Nº Recibo 0049 5292 755 Bbjlflb Ref. Mandato 002401102758, De",-34.23,1005.03,1005.03,OK
+2023-08-01,2023-07-31,Liquidacion Periodica Prestamo 0049 5292 143 0608223,-163.8,1039.26,1039.26,OK
+2023-08-01,2023-07-31,Liquidacion Periodica Prestamo 0049 5292 143 0608222,-72.56,1203.06,1203.06,OK
+2023-08-01,2023-07-31,Liquidacion Periodica Prestamo 0049 5292 103 0607630,-503.49,1275.62,1275.62,OK
+2023-08-01,2023-08-01,Liquidacion De Las Tarjetas De Credito Del Contrato 0049 5292 502 1915579,-258.64,1779.11,1779.11,OK
+2023-07-18,2023-07-18,"Transferencia De A.e.a.t. Devoluciones Tributarias, Concepto Aeat Apl:solicitud Deduccion Maternidad 23mod:140inf:escobar Ho-06-2023 Exp:2023dev14059450241m Aeat.",100.0,2037.75,2037.75,OK
+2023-07-17,2023-07-17,"Recibo Vodafone Notprovided Nº Recibo 0049 5292 755 Bbjkbgh Ref. Mandato 9902113124, De",-32.0,1937.75,1937.75,OK
+2023-07-11,2023-07-11,"Recibo Eulen Servicios Sociosanitarios, S.a. Nº Recibo 0049 5292 755 Bbjjwfy Ref. Mandato 143615/0001/00001, De",-30.51,1969.75,1969.75,OK
+2023-07-11,2023-07-11,"Recibo Eulen Servicios Sociosanitarios, S.a. Nº Recibo 0049 5292 755 Bbjjwfx Ref. Mandato 143615/0001/00001, De",-116.96,2000.26,2000.26,OK
+2023-07-06,2023-07-06,Transferencia A Favor De Pedro Hermosa Concepto: 311 Miguel Mihura 2 - Escalera 3 - 1a,-203.0,2117.22,2117.22,OK
+2023-07-04,2023-07-04,"Recibo Repsol, S.l.u. Repsol 4301108953 Nº Recibo 0049 5292 755 Bbjjjkq Ref. Mandato 002401102758, D",-48.45,2320.22,2320.22,OK
+2023-07-03,2023-07-03,"Transferencia De Escobar Ramirez Maria Isabel, Concepto Julio 2023.",1100.0,2368.67,2368.67,OK
+2023-07-03,2023-07-03,Liquidacion De Las Tarjetas De Credito Del Contrato 0049 5292 502 1915579,-532.29,1268.67,1268.67,OK
+2023-06-30,2023-06-30,Liquidacion Periodica Prestamo 0049 5292 143 0608223,-18.61,1800.96,1800.96,OK
+2023-06-30,2023-06-30,Liquidacion Periodica Prestamo 0049 5292 143 0608222,-8.45,1819.57,1819.57,OK
+2023-06-30,2023-06-30,Liquidacion Periodica Prestamo 0049 5292 103 0607630,-503.49,1828.02,1828.02,OK
+2023-06-29,2023-06-29,"Transferencia De Eduardo Warein Holgado Lage, Concepto Julio.",1000.0,2331.51,2331.51,OK
+2023-06-29,2023-06-29,"Reintegro Contra Cuenta, Atm Suc.4793 El 29/06/2023 A Las 12:31",-30.0,1331.51,1331.51,OK
+2023-06-26,2023-06-26,"Reintegro, Atm:00495292, Salamanca, Tarj. :*716264",-460.0,1361.51,1361.51,OK
+2023-06-26,2023-06-26,"Transferencia De Escobar Ramirez Maria Isabel, Concepto Cambio Pat.",460.0,1821.51,1821.51,OK
+2023-06-20,2023-06-20,"Recibo Mutua Madrilena Automovilista Seguros Nº Recibo 0049 5292 755 Bbjgyyg Ref. Mandato 01010010162335, De",-367.12,1361.51,1361.51,OK
+2023-06-19,2023-06-19,"Recibo Santander Seguros Sa Poliza:217600027178-000000-prot Pres Hip Nº Recibo 0049 5292 755 Bbjgylc Ref. Mandato 2176a001ikjy, De",-110.1,1728.63,1728.63,OK
+2023-06-19,2023-06-19,"Recibo Santander Seguros Sa Poliza:217600027181-000000-prot Pres Hip Nº Recibo 0049 5292 755 Bbjgykv Ref. Mandato 2176a001ikka, De",-62.2,1838.73,1838.73,OK
+2023-06-16,2023-06-16,"Recibo Vodafone Notprovided Nº Recibo 0049 5292 755 Bbjgwtq Ref. Mandato 9902113124, De",-34.96,1900.93,1900.93,OK
+2023-06-15,2023-06-15,Transferencia A Favor De Marta Motor Sl Concepto: Compra Coche Eduardo Holgado Lage,-25450.0,1935.89,1935.89,OK
+2023-06-15,2023-06-15,Disposición Prestamo 0608223 143 A Nombre De Eduardo Warein Holgado Lage,8627.5,27385.89,27385.89,OK
+2023-06-15,2023-06-15,Comisiones Y Gastos Apertura Prestamo 0608223 143,-127.5,18758.39,18758.39,OK
+2023-06-15,2023-06-15,Disposición Prestamo 0608222 143 A Nombre De Maria Isabel Escobar Ramirez,3045.0,18885.89,18885.89,OK
+2023-06-15,2023-06-15,Comisiones Y Gastos Apertura Prestamo 0608222 143,-45.0,15840.89,15840.89,OK
+2023-06-12,2023-06-12,"Transferencia De Eduardo Warein Holgado Lage, Concepto Movimiento Ing.",12750.0,15885.89,15885.89,OK
+2023-06-12,2023-06-12,"Recibo Eulen Servicios Sociosanitarios S.a. Nº Recibo 0049 5292 755 Bbjgqtc Ref. Mandato 143615/0001/00001, De",-30.51,3135.89,3135.89,OK
+2023-06-12,2023-06-12,"Recibo Eulen Servicios Sociosanitarios S.a. Nº Recibo 0049 5292 755 Bbjgqsx Ref. Mandato 143615/0001/00001, De",-116.96,3166.4,3166.4,OK
+2023-06-06,2023-06-06,"Recibo Santander Vida Poliza:218200019945-000000-seg Cap Prot Nº Recibo 0049 5292 755 Bbjgjqk Ref. Mandato 2182a001c338, De",-173.35,3283.36,3283.36,OK
+2023-06-06,2023-06-06,Transferencia A Favor De Pedro Hermosa Concepto: 311 Miguel Mihura 2 - Escalera 3 - 1a,-203.0,3456.71,3456.71,OK
+2023-06-06,2023-06-06,"Recibo Santander Generales Mi Hogar Santander:051492715852 Periodo:03-jun-23 03-jun-24 Prima Neta:295,06eur Recargos Ccs:10,00eur Ips:23,61eur Nº Recibo 0049 5292 755 Bbjgfwv Ref. Mandato 00495292007346800300001, De Not Provided",-328.67,3659.71,3659.71,OK
+2023-06-05,2023-06-05,"Recibo Usagid2014 S.l Nº Recibo 0049 5292 755 Bbjgfmq Ref. Mandato Es9000495292172316107778, De",-142.56,3988.38,3988.38,OK
+2023-06-05,2023-06-05,"Recibo Repsol, S.l.u. Repsol 4301108953 Nº Recibo 0049 5292 755 Bbjgfkx Ref. Mandato 002401102758, De",-69.99,4130.94,4130.94,OK
+2023-06-02,2023-06-02,"Transferencia De Escobar Ramirez Maria Isabel, Concepto Gastos Mes.",1300.0,4200.93,4200.93,OK
+2023-06-01,2023-06-01,"Recibo Clequali S.l. Remesa Abonos Y Cursos Junio 2023 Recibo: 355441/01/jun Renovacion Actividad Mab23j16:15al23 (al-matronatacion B2-b3 J 16:15)-32,45 Nº Recibo 0049 5292 755 Bbjfvfw Ref. Mandato 00000613015292787770161320000492210, De",-32.45,2900.93,2900.93,OK
+2023-06-01,2023-06-01,Liquidacion De Las Tarjetas De Credito Del Contrato 0049 5292 502 1915579,-782.63,2933.38,2933.38,OK
+2023-05-31,2023-05-31,Liquidacion Periodica Prestamo 0049 5292 103 0607630,-503.49,3716.01,3716.01,OK
+2023-05-31,2023-05-31,"Recibo Excmo. Ayuntamiento De Salamanca Nº Recibo 0049 5292 755 Bbjdwms Ref. Mandato 230010331721, De",-12.31,4219.5,4219.5,OK
+2023-05-31,2023-05-31,"Recibo Excmo. Ayuntamiento De Salamanca Nº Recibo 0049 5292 755 Bbjdwmq Ref. Mandato 230010331723, De",-164.41,4231.81,4231.81,OK
+2023-05-29,2023-05-29,"Transferencia De Escobar Ramirez Maria Isabel, Concepto Mj.",750.0,4396.22,4396.22,OK
+2023-05-17,2023-05-17,"Recibo Vodafone Notprovided Nº Recibo 0049 5292 755 Bbjdclt Ref. Mandato 9902113124, De",-35.08,3646.22,3646.22,OK
+2023-05-15,2023-05-15,"Recibo Eulen Servicios Sociosanitarios, S.a. Nº Recibo 0049 5292 755 Bbjczgp Ref. Mandato 143615/0001/00001, De",-30.51,3681.3,3681.3,OK
+2023-05-15,2023-05-15,"Recibo Eulen Servicios Sociosanitarios, S.a. Nº Recibo 0049 5292 755 Bbjczgn Ref. Mandato 143615/0001/00001, De",-116.96,3711.81,3711.81,OK
+2023-05-05,2023-05-05,"Recibo Usagid2014 S.l Nº Recibo 0049 5292 755 Bbjcpql Ref. Mandato Es9000495292172316107778, De",-106.92,3828.77,3828.77,OK
+2023-05-05,2023-05-05,Transferencia A Favor De Pedro Hermosa Concepto: 311 Miguel Mihura 2 - Escalera 3 - 1a,-203.0,3935.69,3935.69,OK
+2023-05-03,2023-05-03,"Recibo Repsol, S.l.u. Repsol 4301108953 Nº Recibo 0049 5292 755 Bbjcgxn Ref. Mandato 002401102758, D",-54.99,4138.69,4138.69,OK
+2023-05-03,2023-04-30,Liquidacion Periodica Prestamo 0049 5292 103 0607630,-503.49,4193.68,4193.68,OK
+2023-05-03,2023-05-03,Liquidacion De Las Tarjetas De Credito Del Contrato 0049 5292 502 1915579,-329.54,4697.17,4697.17,OK
+2023-05-03,2023-05-03,Recibo Clequali S.l. Remesa Abonos Y Cursos Mayo 2023 Recibo: 351707/01/may Renovacion Actividad Mab,-32.45,5026.71,5026.71,OK
+2023-05-02,2023-05-02,"Transferencia De Escobar Ramirez Maria Isabel, Concepto Hacienda.",2500.0,5059.16,5059.16,OK
+2023-04-17,2023-04-17,"Recibo Vodafone Notprovided Nº Recibo 0049 5292 755 Bbhzvfq Ref. Mandato 9902113124, De",-34.95,2559.16,2559.16,OK
+2023-04-12,2023-04-12,"Recibo Eulen Servicios Sociosanitarios S.a. Nº Recibo 0049 5292 755 Bbhzqjv Ref. Mandato 143615/0001/00001, De",-116.96,2594.11,2594.11,OK
+2023-04-12,2023-04-12,"Recibo Eulen Servicios Sociosanitarios S.a. Nº Recibo 0049 5292 755 Bbhzqjt Ref. Mandato 143615/0001/00001, De",-30.51,2711.07,2711.07,OK
+2023-04-06,2023-04-06,"Recibo Usagid2014 S.l Nº Recibo 0049 5292 755 Bbhzjsm Ref. Mandato Es9000495292172316107778, De",-178.2,2741.58,2741.58,OK
+2023-04-06,2023-04-06,Transferencia A Favor De Pedro Hermosa Concepto: 311 Miguel Mihura 2 - Escalera 3 - 1a,-203.0,2919.78,2919.78,OK
+2023-04-05,2023-04-05,"Recibo Banco Cetelem, S.a. Recibo Emitido Por Banco Cetelem S.a. Cetelem Abril Nº Recibo 0049 5292 755 Bbhyqrk Ref. Mandato Es46000a7865034840036651632411, De",-342.39,3122.78,3122.78,OK
+2023-04-04,2023-04-04,"Recibo Repsol, S.l.u. Repsol 4301108953 Nº Recibo 0049 5292 755 Bbhzcdn Ref. Mandato 002401102758, De",-62.09,3465.17,3465.17,OK
+2023-04-04,2023-04-04,"Recibo Clequali S.l. Remesa Abonos Y Cursos Abril 2023 Recibo: 347705/01/abr Renovacion Actividad Mab23j16:15al23 (al-matronatacion B2-b3 J 16:15)-32,45 Nº Recibo 0049 5292 755 Bbhzbkx Ref. Mandato 00000613015292787770161320000492210, De",-32.45,3527.26,3527.26,OK
+2023-04-03,2023-04-03,"Transferencia De Eduardo Warein Holgado Lage, Concepto Abril.",1270.0,3559.71,3559.71,OK
+2023-04-03,2023-04-03,Liquidacion De Las Tarjetas De Credito Del Contrato 0049 5292 502 1915579,-406.11,2289.71,2289.71,OK
+2023-03-31,2023-03-31,Liquidacion Periodica Prestamo 0049 5292 103 0607630,-503.49,2695.82,2695.82,OK
+2023-03-29,2023-03-29,"Transferencia De Escobar Ramirez Maria Isabel, Concepto Devolución Marzo Maricet.",150.0,3199.31,3199.31,OK
+2023-03-15,2023-03-15,"Recibo Vodafone Factura: Lowi.es:/ci00000051710360/ Nº Recibo 0049 5292 755 Bbhxqqh Ref. Mandato 9902113124, De",-32.43,3049.31,3049.31,OK
+2023-03-13,2023-03-13,"Recibo Eulen Servicios Sociosanitarios S.a. Nº Recibo 0049 5292 755 Bbhxngt Ref. Mandato 143615/0001/00001, De",-116.96,3081.74,3081.74,OK
+2023-03-13,2023-03-13,"Recibo Eulen Servicios Sociosanitarios S.a. Nº Recibo 0049 5292 755 Bbhxngs Ref. Mandato 143615/0001/00001, De",-30.51,3198.7,3198.7,OK
+2023-03-06,2023-03-06,Transferencia A Favor De Pedro Hermosa Concepto: 311 Miguel Mihura 2 - Escalera 3 - 1a,-203.0,3229.21,3229.21,OK
+2023-03-06,2023-03-06,"Recibo Usagid2014 S.l Nº Recibo 0049 5292 755 Bbhxcnq Ref. Mandato Es9000495292172316107778, De",-142.56,3432.21,3432.21,OK
+2023-03-06,2023-03-06,"Recibo Banco Cetelem, S.a. Recibo Emitido Por Banco Cetelem S.a. Cetelem Marzo Nº Recibo 0049 5292 755 Bbhwkwf Ref. Mandato Es46000a7865034840036651632411, De",-342.41,3574.77,3574.77,OK
+2023-03-03,2023-03-03,"Recibo Repsol, S.l.u. Repsol 4301108953 Nº Recibo 0049 5292 755 Bbhwyxc Ref. Mandato 002401102758, De",-52.47,3917.18,3917.18,OK
+2023-03-02,2023-03-02,"Transferencia De Eduardo Warein Holgado Lage, Concepto Hipoteca.",1270.0,3969.65,3969.65,OK
+2023-03-01,2023-03-01,"Transferencia De Escobar Ramirez Maria Isabel, Concepto Gastos Marzo 2023.",1030.0,2699.65,2699.65,OK
+2023-03-01,2023-03-01,"Recibo Clequali S.l. Remesa Abonos Y Cursos Marzo 2023 Recibo: 343660/01/mar Renovacion Actividad Mab23j16:15al23 (al-matronatacion B2-b3 J 16:15)-32,45 Nº Recibo 0049 5292 755 Bbhwsng Ref. Mandato 00000613015292787770161320000492210, De",-32.45,1669.65,1669.65,OK
+2023-03-01,2023-03-01,Liquidacion De Las Tarjetas De Credito Del Contrato 0049 5292 502 1915579,-454.16,1702.1,1702.1,OK
+2023-02-28,2023-02-28,Liquidacion Periodica Prestamo 0049 5292 103 0607630,-503.49,2156.26,2156.26,OK
+2023-02-15,2023-02-15,"Recibo Vodafone Notprovided Nº Recibo 0049 5292 755 Bbhvfcz Ref. Mandato 9902113124, De",-32.0,2659.75,2659.75,OK
+2023-02-13,2023-02-13,"Recibo Eulen Servicios Sociosanitarios S.a. Nº Recibo 0049 5292 755 Bbhvbwt Ref. Mandato 143615/0001/00001, De",-30.51,2691.75,2691.75,OK
+2023-02-13,2023-02-13,"Recibo Eulen Servicios Sociosanitarios S.a. Nº Recibo 0049 5292 755 Bbhvbws Ref. Mandato 143615/0001/00001, De",-116.96,2722.26,2722.26,OK
+2023-02-06,2023-02-06,"Recibo Usagid2014 S.l Nº Recibo 0049 5292 755 Bbhtrbq Ref. Mandato Es9000495292172316107778, De",-131.91,2839.22,2839.22,OK
+2023-02-06,2023-02-06,"Recibo Banco Cetelem, S.a. Recibo Emitido Por Banco Cetelem S.a. Cetelem Febrero Nº Recibo 0049 5292 755 Bbhsymt Ref. Mandato Es46000a7865034840036651632411, De",-342.41,2971.13,2971.13,OK
+2023-02-03,2023-02-03,"Recibo Repsol, S.l.u. Repsol 4301108953 Nº Recibo 0049 5292 755 Bbhtmhh Ref. Mandato 002401102758, De",-60.34,3313.54,3313.54,OK
+2023-02-03,2023-02-03,Transferencia A Favor De Pedro Hermosa Concepto: Miguel Mihura - Escalera 3 - 1a,-160.0,3373.88,3373.88,OK
+2023-02-02,2023-02-02,"Recibo Clequali S.l. Remesa Abonos Y Cursos Febrero 2023 Recibo: 339560/01/feb Renovacion Actividad Mab23j16:15al23 (al-matronatacion B2-b3 J 16:15)-32,45 Nº Recibo 0049 5292 755 Bbhthvq Ref. Mandato 00000613015292787770161320000492210, De",-32.45,3533.88,3533.88,OK
+2023-02-02,2023-02-02,"Transferencia De Escobar Ramirez Maria Isabel, Concepto Hipoteca Febrero.",1030.0,3566.33,3566.33,OK
+2023-02-01,2023-02-01,"Transferencia De Eduardo Warein Holgado Lage, Concepto Hipoteca Febrero.",1270.0,2536.33,2536.33,OK
+2023-02-01,2023-02-01,Liquidacion De Las Tarjetas De Credito Del Contrato 0049 5292 502 1915579,-388.07,1266.33,1266.33,OK
+2023-01-31,2023-01-31,Liquidacion Periodica Prestamo 0049 5292 103 0607630,-503.49,1654.4,1654.4,OK
+2023-01-30,2023-01-30,"Transferencia De Escobar Ramirez Maria Isabel, Concepto Devolución Maricet Enero.",150.0,2157.89,2157.89,OK
+2023-01-16,2023-01-16,"Transaccion Contactless En Mayfe Millar, Salamanca, Tarj. :*716264",-799.0,2007.89,2007.89,OK
+2023-01-16,2023-01-16,"Recibo Eulen Servicios Sociosanitarios S.a. Nº Recibo 0049 5292 755 Bbhsbky Ref. Mandato 143615/0001/00001, De",-116.96,2806.89,2806.89,OK
+2023-01-16,2023-01-16,"Recibo Eulen Servicios Sociosanitarios S.a. Nº Recibo 0049 5292 755 Bbhsbkw Ref. Mandato 143615/0001/00001, De",-30.51,2923.85,2923.85,OK
+2023-01-16,2023-01-16,"Recibo Vodafone Factura: Lowi.es:/ci00000049536303/ Nº Recibo 0049 5292 755 Bbhrzps Ref. Mandato 9902113124, De",-31.9,2954.36,2954.36,OK
+2023-01-09,2023-01-06,"Transferencia De Gerencia De Servicios Sociales De Castilla Y Leon, Concepto Concesion Bono Concilia 2022.",750.0,2986.26,2986.26,OK
+2023-01-05,2023-01-05,Transferencia A Favor De Pedro Hermosa Concepto: Miguel Mihura - Escalera 3 - 1a,-160.0,2236.26,2236.26,OK
+2023-01-05,2023-01-05,"Recibo Usagid2014 S.l Nº Recibo 0049 5292 755 Bbhrpwr Ref. Mandato Es9000495292172316107778, De",-164.89,2396.26,2396.26,OK
+2023-01-05,2023-01-05,"Recibo Banco Cetelem, S.a. Recibo Emitido Por Banco Cetelem S.a. Cetelem Enero Nº Recibo 0049 5292 755 Bbhrcqm Ref. Mandato Es46000a7865034840036651632411, De",-342.41,2561.15,2561.15,OK
+2023-01-04,2023-01-04,"Recibo Clequali S.l. Remesa Abonos Y Cursos Enero 2023 Recibo: 331475/01/ene Renovacion Actividad Mab23j16:15al23 (al-matronatacion B2-b3 J 16:15)-32,45 Nº Recibo 0049 5292 755 Bbhrldx Ref. Mandato 00000613015292787770161320000492210, De",-32.45,2903.56,2903.56,OK
+2023-01-04,2023-01-04,"Transferencia De Escobar Ramirez Maria Isabel, Concepto Enero 2023.",600.0,2936.01,2936.01,OK
+2023-01-04,2023-01-04,Transferencia A Favor De Unpuntocurioso Concepto: Alex Escobar - Primer Trimestre 2023,-60.0,2336.01,2336.01,OK
+2023-01-03,2023-01-03,"Recibo Repsol, S.l.u. Repsol 4301108953 Nº Recibo 0049 5292 755 Bbhrhgg Ref. Mandato 002401102758, De",-64.74,2396.01,2396.01,OK
+2023-01-02,2023-01-02,Liquidacion De Las Tarjetas De Credito Del Contrato 0049 5292 502 1915579,-476.21,2460.75,2460.75,OK
+2023-01-02,2022-12-31,Liquidacion Periodica Prestamo 0049 5292 103 0607630,-501.48,2936.96,2936.96,OK
+2022-12-23,2022-12-23,"Transferencia De Maria Luisa Escobar Ramirez, Concepto Movimiento Ing.",1250.0,3438.44,3438.44,OK
+2022-12-22,2022-12-22,"Transferencia De Eduardo Warein Holgado Lage, Concepto Gastos Enero.",1000.0,2188.44,2188.44,OK
+2022-12-16,2022-12-16,"Recibo Eulen Servicios Sociosanitarios, S.a. Nº Recibo 0049 5292 755 Bbhpwpt Ref. Mandato 143615/0001/00001, De",-116.96,1188.44,1188.44,OK
+2022-12-16,2022-12-16,"Recibo Eulen Servicios Sociosanitarios, S.a. Nº Recibo 0049 5292 755 Bbhpwpr Ref. Mandato 143615/0001/00001, De",-30.51,1305.4,1305.4,OK
+2022-12-05,2022-12-05,"Recibo Repsol, S.l.u. Repsol 4301108953 Nº Recibo 0049 5292 755 Bbhphrp Ref. Mandato 002401102758, De",-50.73,1335.91,1335.91,OK
+2022-12-05,2022-12-05,"Recibo Banco Cetelem, S.a. Recibo Emitido Por Banco Cetelem S.a. Cetelem Diciembr Nº Recibo 0049 5292 755 Bbhnsjm Ref. Mandato Es46000a7865034840036651632411, De",-342.41,1386.64,1386.64,OK
+2022-12-02,2022-12-02,"Recibo Usagid2014 S.l Nº Recibo 0049 5292 755 Bbhpdcp Ref. Mandato Es9000495292172316107778, De",-98.93,1729.05,1729.05,OK
+2022-12-02,2022-12-02,"Recibo Clequali S.l. Remesa Abonos Y Cursos Diciembre 2022 Recibo: 327403/01/dic Renovacion Actividad Mab23j16:15al23 (al-matronatacion B2-b3 J 16:15)-32,39 Nº Recibo 0049 5292 755 Bbhpcbt Ref. Mandato 00000613015292787770161320000492210, De",-32.39,1827.98,1827.98,OK
+2022-12-02,2022-12-02,"Transferencia De Escobar Ramirez Maria Isabel, Concepto Hipoteca Diciembre.",800.0,1860.37,1860.37,OK
+2022-12-01,2022-12-01,Liquidacion De Las Tarjetas De Credito Del Contrato 0049 5292 502 1915579,-393.54,1060.37,1060.37,OK
+2022-11-30,2022-11-30,Liquidacion Periodica Prestamo 0049 5292 103 0607630,-501.48,1453.91,1453.91,OK
+2022-11-30,2022-11-30,"Recibo Eulen Servicios Sociosanitarios, S.a. Nº Recibo 0049 5292 755 Bbhnktw Ref. Mandato 143615/0001/00001, De",-116.96,1955.39,1955.39,OK
+2022-11-30,2022-11-30,"Recibo Eulen Servicios Sociosanitarios, S.a. Nº Recibo 0049 5292 755 Bbhnktv Ref. Mandato 143615/0001/00001, De",-30.51,2072.35,2072.35,OK
+2022-11-29,2022-11-29,"Transferencia De Eduardo Warein Holgado Lage, Concepto Hipoteca Diciembre.",600.0,2102.86,2102.86,OK
+2022-11-07,2022-11-07,"Recibo Banco Cetelem, S.a. Recibo Emitido Por Banco Cetelem S.a. Cetelem Noviembr Nº Recibo 0049 5292 755 Bbhlrby Ref. Mandato Es46000a7865034840036651632411, De",-342.41,1502.86,1502.86,OK
+2022-11-03,2022-11-03,"Transferencia De Eduardo Warein Holgado Lage, Concepto Hipoteca Noviembre.",500.0,1845.27,1845.27,OK
+2022-11-03,2022-11-03,"Recibo Clequali S.l. Remesa Abonos Y Cursos Noviembre 2022 Recibo: 323317/01/nov Renovacion Actividad Mab23j16:15al23 (al-matronatacion B2-b3 J 16:15)-32,39 Nº Recibo 0049 5292 755 Bbhlxrm Ref. Mandato 00000613015292787770161320000492210, De",-32.39,1345.27,1345.27,OK
+2022-11-03,2022-11-03,"Transferencia De Escobar Ramirez Maria Isabel, Concepto Error Transferencia Octubre 2022.",600.0,1377.66,1377.66,OK
+2022-11-03,2022-11-03,Transferencia A Favor De Maricet Ramirez Graterol Concepto: Manutención Octubre 2022,-600.0,777.66,777.66,OK
+2022-11-03,2022-11-03,"Transferencia De Escobar Ramirez Maria Isabel, Concepto Gastos Octubre 2022.",500.0,1377.66,1377.66,OK
+2022-11-02,2022-11-02,"Recibo Usagid2014 S.l Nº Recibo 0049 5292 755 Bbhlwvy Ref. Mandato Es9000495292172316107778, De",-131.91,877.66,877.66,OK
+2022-11-02,2022-11-02,Liquidacion De Las Tarjetas De Credito Del Contrato 0049 5292 502 1915579,-406.38,1009.57,1009.57,OK
+2022-11-02,2022-10-31,Liquidacion Periodica Prestamo 0049 5292 103 0607630,-501.48,1415.95,1415.95,OK
+2022-10-31,2022-10-31,"Recibo Eulen Servicios Sociosanitarios S.a. Nº Recibo 0049 5292 755 Bbhlmkc Ref. Mandato 143615/0001/00001, De",-116.96,1917.43,1917.43,OK
+2022-10-31,2022-10-31,"Recibo Eulen Servicios Sociosanitarios S.a. Nº Recibo 0049 5292 755 Bbhlmkb Ref. Mandato 143615/0001/00001, De",-30.51,2034.39,2034.39,OK
+2022-10-10,2022-10-10,"Recibo Eulen Servicios Sociosanitarios, S.a. Nº Recibo 0049 5292 755 Bbhjymy Ref. Mandato 143615/0001/00001, De",-30.51,2064.9,2064.9,OK
+2022-10-07,2022-10-07,"Transferencia De Eduardo Warein Holgado Lage, Concepto Octubre.",400.0,2095.41,2095.41,OK
+2022-10-05,2022-10-05,"Recibo Usagid2014 S.l Nº Recibo 0049 5292 755 Bbhjsgp Ref. Mandato Es9000495292172316107778, De",-131.91,1695.41,1695.41,OK
+2022-10-05,2022-10-05,"Recibo Banco Cetelem, S.a. Recibo Emitido Por Banco Cetelem S.a. Cetelem Octubre Nº Recibo 0049 5292 755 Bbhjcgf Ref. Mandato Es46000a7865034840036651632411, De",-342.41,1827.32,1827.32,OK
+2022-10-03,2022-10-03,"Transferencia De Escobar Ramirez Maria Isabel, Concepto Gastos Octubre 2022.",400.0,2169.73,2169.73,OK
+2022-10-03,2022-10-03,Liquidacion De Las Tarjetas De Credito Del Contrato 0049 5292 502 1915579,-384.22,1769.73,1769.73,OK
+2022-09-30,2022-09-30,Liquidacion Periodica Prestamo 0049 5292 103 0607630,-501.48,2153.95,2153.95,OK
+2022-09-26,2022-09-26,Transferencia A Favor De Escobar Ramirez Maria Isabel Concepto: Mercadona 27.09.22,-40.0,2655.43,2655.43,OK
+2022-09-07,2022-09-07,"Transferencia De Grupo Bc De Asesoria Hipotecaria S.l., Concepto 42030459.",1394.89,2695.43,2695.43,OK
+2022-09-05,2022-09-05,"Recibo Banco Cetelem, S.a. Recibo Emitido Por Banco Cetelem S.a. Cetelem Septiemb Nº Recibo 0049 5292 755 Bbhfyhj Ref. Mandato Es46000a7865034840036651632411, De",-342.41,1300.54,1300.54,OK
+2022-09-01,2022-09-01,"Transferencia De Escobar Ramirez Maria Isabel, Concepto Gastos Sept. 2022.",600.0,1642.95,1642.95,OK
+2022-09-01,2022-09-01,Liquidacion De Las Tarjetas De Credito Del Contrato 0049 5292 502 1915579,-385.15,1042.95,1042.95,OK
+2022-08-31,2022-08-31,Liquidacion Periodica Prestamo 0049 5292 103 0607630,-501.48,1428.1,1428.1,OK
+2022-08-30,2022-08-30,"Transferencia De Eduardo Warein Holgado Lage, Concepto Hipoteca Septiembre.",600.0,1929.58,1929.58,OK
+2022-08-24,2022-08-24,"Transferencia A Favor De Jantipe Gil Concepto: Somier, Colchon, Protectores 180x90 Isabel Escobar",-330.0,1329.58,1329.58,OK
+2022-08-05,2022-08-05,"Recibo Banco Cetelem, S.a. Recibo Emitido Por Banco Cetelem S.a. Cetelem Agosto Nº Recibo 0049 5292 755 Bbhcsxx Ref. Mandato Es46000a7865034840036651632411, De",-342.41,1659.58,1659.58,OK
+2022-08-02,2022-07-31,Liquidacion Periodica Prestamo 0049 5292 103 0607630,-501.48,2001.99,2001.99,OK
+2022-08-01,2022-08-01,"Transferencia De Eduardo Warein Holgado Lage, Concepto Hipoteca Agosto.",800.0,2503.47,2503.47,OK
+2022-08-01,2022-08-01,"Transferencia De Escobar Ramirez Maria Isabel, Concepto Hipoteca Y Gastos Agosto 2022.",800.0,1703.47,1703.47,OK
+2022-08-01,2022-08-01,Liquidacion De Las Tarjetas De Credito Del Contrato 0049 5292 502 1915579,-405.24,903.47,903.47,OK
+2022-07-22,2022-07-22,"Transferencia De Eduardo Warein Holgado Lage, Concepto Reembolso Mosquitera.",120.0,1308.71,1308.71,OK
+2022-07-22,2022-07-22,Transferencia A Favor De Ruano Monzon Concepto: Mosquitera Factura 20220462,-113.0,1188.71,1188.71,OK
+2022-07-19,2022-07-19,"Transferencia De Eduardo Warein Holgado Lage, Concepto Hipoteca Julio.",600.0,1301.71,1301.71,OK
+2022-07-05,2022-07-05,"Recibo Banco Cetelem, S.a. Recibo Emitido Por Banco Cetelem S.a. Cetelem Julio Nº Recibo 0049 5292 755 Bbgznlj Ref. Mandato Es46000a7865034840036651632411, De",-342.41,701.71,701.71,OK
+2022-07-04,2022-07-04,"Transferencia De Escobar Ramirez Maria Isabel, Concepto Compras Isa.",33.0,1044.12,1044.12,OK
+2022-07-01,2022-07-01,Transferencia A Favor De Blanca Maria Cozar Folgado Concepto: Guarderia Julio,-210.0,1011.12,1011.12,OK
+2022-07-01,2022-07-01,"Transferencia De Escobar Ramirez Maria Isabel, Concepto Gastos.",350.0,1221.12,1221.12,OK
+2022-07-01,2022-07-01,Liquidacion De Las Tarjetas De Credito Del Contrato 0049 5292 502 1915579,-66.76,871.12,871.12,OK
+2022-06-30,2022-06-30,Liquidacion Periodica Prestamo 0049 5292 103 0607630,-82.11,937.88,937.88,OK
+2022-06-29,2022-06-29,"Transferencia De Eduardo Warein Holgado Lage, Concepto Hipoteca Julio.",500.0,1019.99,1019.99,OK
+2022-06-27,2022-06-27,"Reintegro, Atm:00492259, Navas Del Mar, Tarj. :*716264",-10.0,519.99,519.99,OK
+2022-06-23,2022-06-23,Transferencia A Favor De Isabel Escobar Concepto: Prueba,-5.0,529.99,529.99,OK
+2022-06-07,2022-06-07,"Recibo Santander Generales Mi Hogar Santander:051492715852 Periodo:03-jun-22 03-jun-23 Prima Neta:277,04eur Recargos Ccs:9,49eur Ips:22,17eur Nº Recibo 0049 5292 755 Bbgycpw Ref. Mandato 00495292007346800300001, De Not Provided",-308.7,534.99,534.99,OK
+2022-06-06,2022-06-06,"Recibo Santander Vida Poliza:218200019945-000000-seg Cap Prot Nº Recibo 0049 5292 755 Bbgxzwx Ref. Mandato 2182a001c338, De",-167.86,843.69,843.69,OK
+2022-06-03,2022-06-03,Inicio,1011.55,1011.55,1011.55,OK

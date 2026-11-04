@@ -1,24 +1,52 @@
 {% extends "base.html" %}
-{% block title %}Total Warein | Saldo privado{% endblock %}
+{% block title %}Movimientos {{ profile.label }} | Saldo privado{% endblock %}
 {% block content %}
   <section class="page-intro compact">
-    <p class="eyebrow">Movimientos ING</p>
-    <h1>Movimientos Warein</h1>
-    <p>Consulta los CSV de ING nómina, ING Naranja y Trade, y descarga la versión actualizada.</p>
+    <p class="eyebrow">Movimientos {{ profile.label }}</p>
+    <h1>Movimientos {{ profile.label }}</h1>
+    {% if profile.slug == 'warein' %}
+      <p>Consulta los CSV de ING nómina, ING Naranja y Trade, y descarga la versión actualizada.</p>
+    {% else %}
+      <p>Consulta y descarga el CSV actualizado con todos los movimientos de Isa.</p>
+    {% endif %}
   </section>
-  <section class="sheet-selector" aria-label="Seleccionar cuenta ING">
-    {% for sheet in sheets %}
-      <a class="{% if sheet.index == selected_sheet %}active{% endif %}" href="{{ url_for('total_page', profile_slug=profile.slug, sheet=sheet.index) }}">{{ sheet.name }}</a>
-    {% endfor %}
-  </section>
+  {% if sheets|length > 1 %}
+    <section class="sheet-selector" aria-label="Seleccionar cuenta ING">
+      {% for sheet in sheets %}
+        <a class="{% if sheet.index == selected_sheet %}active{% endif %}" href="{{ url_for('total_page', profile_slug=profile.slug, sheet=sheet.index) }}">{{ sheet.name }}</a>
+      {% endfor %}
+    </section>
+  {% endif %}
   <section class="section-heading source-heading">
     <div>
-      <p class="eyebrow">Cuenta ING</p>
+      <p class="eyebrow">{% if profile.slug == 'warein' %}Cuenta ING{% else %}CSV de movimientos{% endif %}</p>
       <h2>{{ selected.name }}</h2>
       <p class="state">{{ rows|length }} filas y {{ columns|length }} columnas</p>
     </div>
     <a class="download-button" href="{{ url_for('source_sheet_csv', profile_slug=profile.slug, sheet_index=selected_sheet) }}">Descargar CSV</a>
   </section>
+  {% if selected.account_key == 'trade' %}
+    <section class="manual-movement">
+      <div>
+        <p class="eyebrow">Alta manual</p>
+        <h2>Añadir movimiento Trade</h2>
+        <p>Al guardarlo se recalcularán los saldos y se actualizarán los gráficos total y mensual.</p>
+      </div>
+      <form action="{{ url_for('add_trade_movement', profile_slug=profile.slug) }}" method="post" class="manual-movement-form">
+        <label for="movement_date">Fecha</label>
+        <input id="movement_date" name="movement_date" type="date" value="{{ current_date }}" required>
+        <label for="category">Categoría</label>
+        <input id="category" name="category" type="text" value="Intereses" maxlength="120">
+        <label for="subcategory">Subcategoría</label>
+        <input id="subcategory" name="subcategory" type="text" value="Intereses" maxlength="120">
+        <label for="description">Descripción</label>
+        <input id="description" name="description" type="text" value="Interés" maxlength="500" required>
+        <label for="amount">Importe (EUR)</label>
+        <input id="amount" name="amount" type="text" inputmode="decimal" placeholder="Ej.: 1250,50 o -1250,50" required>
+        <button type="submit">Añadir movimiento</button>
+      </form>
+    </section>
+  {% endif %}
   <div class="table-wrap source-table">
     <table>
       <thead><tr>{% for column in columns %}<th>{{ column }}</th>{% endfor %}</tr></thead>

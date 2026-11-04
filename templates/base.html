@@ -13,13 +13,15 @@
       <nav class="profile-links" aria-label="Seleccionar perfil">
         <a class="{% if profile.slug == 'warein' %}active{% endif %}" href="{{ url_for('dashboard', profile_slug='warein') }}">Warein</a>
         <a class="{% if profile.slug == 'isa' %}active{% endif %}" href="{{ url_for('dashboard', profile_slug='isa') }}">Isa</a>
+        <a class="{% if profile.slug == 'hipoteca' %}active{% endif %}" href="{{ url_for('dashboard', profile_slug='hipoteca') }}">Hipoteca</a>
+        <a class="{% if profile.slug == 'total' %}active{% endif %}" href="{{ url_for('dashboard', profile_slug='total') }}">Total</a>
       </nav>
     </header>
     <main>
       <nav class="section-nav" aria-label="Secciones de {{ profile.label }}">
         <a href="{{ url_for('dashboard', profile_slug=profile.slug) }}">Resumen</a>
         <a href="{{ url_for('balances_page', profile_slug=profile.slug) }}">Saldos</a>
-        {% if profile.slug == 'warein' %}<a href="{{ url_for('total_page', profile_slug=profile.slug) }}">Movimientos</a>{% endif %}
+        {% if profile.slug != 'total' %}<a href="{{ url_for('total_page', profile_slug=profile.slug) }}">Movimientos</a>{% endif %}
         <a href="{{ url_for('monthly_page', profile_slug=profile.slug) }}">Mensual</a>
       </nav>
       {% with messages = get_flashed_messages(with_categories=true) %}
